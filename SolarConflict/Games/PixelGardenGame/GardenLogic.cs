@@ -33,6 +33,16 @@ namespace PaintPlay
         MusicFireworks,
         RealWall,
         Object,
+        Copper,
+        Iron,
+        Gold,
+        Diamond,
+        Vapor,
+        Earth,
+        EaterBug,
+        Fly,
+        JumperBug,
+
         Last
     }
 
