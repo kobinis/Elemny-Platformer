@@ -1,0 +1,71 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 3,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 4,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": "PhotonBarrageUtil"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Pirates - Harasser",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip2",
+  "Count": 12
+}

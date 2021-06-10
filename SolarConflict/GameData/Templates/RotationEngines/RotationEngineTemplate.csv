@@ -1,0 +1,8 @@
+Id,Name*,Description,Quality,Size*,Texture,Equipped Texture,Price,Sell Ratio,Color*,Force
+SmallRotationEngine0,Small gyroscope MK I,,0,Small,RotationEngine1a,ShipEngine,240,0.5,,15
+SmallRotationEngine1,Small gyroscope MK II,,1,Small,RotationEngine1b,ShipEngine,480,0.5,,20
+SmallRotationEngine2,Small gyroscope MK III,,2,Small,RotationEngine1c,ShipEngine,900,0.5,,50
+SmallRotationEngine3,Small gyroscope MK IV,,4,Small,RotationEngine1c,ShipEngine,900,0.5,,80
+MediumRotationEngine1,Medium gyroscope MK I,,1,Medium,RotationEngine2a,ShipEngine,800,0.5,,80
+MediumRotationEngine2,Medium gyroscope MK II,,2,Medium,RotationEngine2b,ShipEngine,1200,0.5,,120
+MediumRotationEngine3,Medium gyroscope MK III,,3,Medium,RotationEngine2c,ShipEngine,2400,0.5,,160

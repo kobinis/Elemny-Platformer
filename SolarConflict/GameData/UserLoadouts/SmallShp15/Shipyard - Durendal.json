@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "KineticMineLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "KineticMineLauncher"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 6,
+      "ItemId": "SprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 7,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Shipyard - Durendal",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShp15",
+  "Count": 13
+}

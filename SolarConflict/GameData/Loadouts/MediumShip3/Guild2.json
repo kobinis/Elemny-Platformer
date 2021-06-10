@@ -1,0 +1,96 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 10,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Cloack3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MediumRotationEngine2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 15,
+      "ItemId": "GooBlastUtil"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "Missile0",
+      "Amount": 8
+    }
+  ],
+  "ID": "Guild2",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip3",
+  "Count": 16
+}

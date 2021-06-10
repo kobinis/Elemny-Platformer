@@ -1,0 +1,109 @@
+{
+  "CommandBindings": {
+    "Use": {
+      "Key": "f",
+      "MouseButton": "none"
+    },
+    "SwapUp": {
+      "Key": "tab",
+      "MouseButton": "none"
+    },
+    "CallHelp": {
+      "Key": "r",
+      "MouseButton": "none"
+    }
+  },
+  "KeyBindings": {
+    "Up": {
+      "Key": "w",
+      "MouseButton": "none"
+    },
+    "Down": {
+      "Key": "s",
+      "MouseButton": "none"
+    },
+    "Left": {
+      "Key": "a",
+      "MouseButton": "none"
+    },
+    "Right": {
+      "Key": "d",
+      "MouseButton": "none"
+    },
+    "Action1": {
+      "Key": "none",
+      "MouseButton": "leftButton"
+    },
+    "Action2": {
+      "Key": "none",
+      "MouseButton": "rightButton"
+    },
+    "Action3": {
+      "Key": "q",
+      "MouseButton": "none"
+    },
+    "Action4": {
+      "Key": "e",
+      "MouseButton": "none"
+    },
+    "MoveToCursor": {
+      "Key": "space",
+      "MouseButton": "none"
+    },
+    "QuickUse1": {
+      "Key": "d1",
+      "MouseButton": "none"
+    },
+    "QuickUse2": {
+      "Key": "d2",
+      "MouseButton": "none"
+    },
+    "QuickUse3": {
+      "Key": "d3",
+      "MouseButton": "none"
+    },
+    "QuickUse4": {
+      "Key": "d4",
+      "MouseButton": "none"
+    },
+    "Brake": {
+      "Key": "x",
+      "MouseButton": "none"
+    }
+  },
+  "MenuBindings": {
+    "EscapeMenu": {
+      "Key": "escape",
+      "MouseButton": "none"
+    },
+    "MissionLog": {
+      "Key": "f1",
+      "MouseButton": "none"
+    },
+    "Inventory": {
+      "Key": "f2",
+      "MouseButton": "none"
+    },
+    "Hangar": {
+      "Key": "f3",
+      "MouseButton": "none"
+    },
+    "TacticalMap": {
+      "Key": "m",
+      "MouseButton": "none"
+    },
+    "GalaxyMap": {
+      "Key": "f5",
+      "MouseButton": "none"
+    },
+    "Codex": {
+      "Key": "c",
+      "MouseButton": "none"
+    },
+    "Imbue": {
+      "Key": "l",
+      "MouseButton": "none"
+    }
+  },
+  "LockRotation": "leftShift"
+}

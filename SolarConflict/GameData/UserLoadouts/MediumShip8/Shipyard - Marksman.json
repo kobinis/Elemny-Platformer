@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 5,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Shield4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 10,
+      "ItemId": "EchoSprintItem"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Shipyard - Marksman",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip8",
+  "Count": 11
+}

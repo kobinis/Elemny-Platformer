@@ -1,0 +1,595 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine1"
+        ],
+        "3": [
+          "SmallEngine2",
+        ],
+        "4": [
+          "SmallEngine2"
+        ],
+        "5": [
+          "SmallEngine3"
+        ],
+		"6": [
+          "SmallEngine3"
+        ],
+		"7": [
+          "SmallEngine4"
+        ],
+		"8": [
+          "SmallEngine4"
+        ],
+		"9": [
+          "SmallEngine5"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "down",
+      "ItemsPerLevel": null,
+      "Index": 1,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 2,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": null,
+      "Index": 3,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+          "Berserk1",
+          "MiningLaser1",
+          "Shotgun1",
+          "MissileLauncher1",
+          "ChainGun1"
+        ],
+        "2": [
+          "RicochetGun",
+          "AoeRingGun1",
+          "Blaster2",
+          "MiningLaser2",
+          "TractorBeamItem",
+          "MineLauncher",
+          "HealingBeam",
+          "RicochetBlaster",
+          "KineticMineLauncher",
+          "ChainGun2",
+          "SlowHeavyGun"
+        ],
+        "3": [
+          "SniperGun",
+          "Blaster3",
+          "MiningLaser3",
+          "Shotgun2",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+          "MiniMissileLauncher",
+          "BlinkItem",
+          "ChainGun3"
+        ],
+        "4": [
+          "EnergyBolaGun",
+          "Railgun",
+          "BoomerangGun",
+          "DevastationCoreDetonator",
+          "StunGunItem",
+          "XionGun",
+          "AoeRingGun2",
+          "Blaster4",
+          "Berserk2",
+          "MiningLaser4",
+          "Flamethrower",
+          "Artillery",
+          "ChainGun4"
+        ],
+        "5": [
+          "BeastBombLauncher",
+          "FireworksGun",
+          "Blaster5",
+          "MiningLaser5",
+          "Shotgun3",
+          "GravitonGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "HarpoonGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun",
+          "AoeRingGun3",
+          "Blaster6"
+        ],
+        "7": [
+          "Blaster7",
+          "Berserk3",
+          "Shotgun4",
+          "PhotonBarrageWeapon1",
+          "ShortEnergyDrainBeam"
+        ],
+        "8": [
+          "EpicShotgunItem",
+          "AoeRingGun4",
+          "Blaster8"
+        ],
+        "9": [
+          "Blaster9",
+          "Shotgun5",
+          "TimeBombLauncherItem",
+          "PhotonBarrageUtil",
+          "VoidBeam"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+          "Berserk1",
+          "MiningLaser1",
+          "Shotgun1",
+          "MissileLauncher1",
+          "ChainGun1"
+        ],
+        "2": [
+          "RicochetGun",
+          "AoeRingGun1",
+          "Blaster2",
+          "MiningLaser2",
+          "TractorBeamItem",
+          "MineLauncher",
+          "HealingBeam",
+          "RicochetBlaster",
+          "KineticMineLauncher",
+          "ChainGun2",
+          "SlowHeavyGun"
+        ],
+        "3": [
+          "SniperGun",
+          "Blaster3",
+          "MiningLaser3",
+          "Shotgun2",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+          "MiniMissileLauncher",
+          "BlinkItem",
+          "ChainGun3"
+        ],
+        "4": [
+          "EnergyBolaGun",
+          "Railgun",
+          "BoomerangGun",
+          "DevastationCoreDetonator",
+          "StunGunItem",
+          "XionGun",
+          "AoeRingGun2",
+          "Blaster4",
+          "Berserk2",
+          "MiningLaser4",
+          "Flamethrower",
+          "Artillery",
+          "ChainGun4"
+        ],
+        "5": [
+          "BeastBombLauncher",
+          "FireworksGun",
+          "Blaster5",
+          "MiningLaser5",
+          "Shotgun3",
+          "GravitonGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "HarpoonGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun",
+          "AoeRingGun3",
+          "Blaster6"
+        ],
+        "7": [
+          "Blaster7",
+          "Berserk3",
+          "Shotgun4",
+          "PhotonBarrageWeapon1",
+          "ShortEnergyDrainBeam"
+        ],
+        "8": [
+          "EpicShotgunItem",
+          "AoeRingGun4",
+          "Blaster8"
+        ],
+        "9": [
+          "Blaster9",
+          "Shotgun5",
+          "TimeBombLauncherItem",
+          "PhotonBarrageUtil",
+          "VoidBeam"
+        ]
+      },
+      "Index": 5,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "1": [
+          "CargoEmitter"
+        ],
+        "2": [
+          "DecoyItem",
+          "HomeBeacon",
+          "DeployableTurretItem",
+          "RepairDroneLauncherItem",
+          "ActiveEnergyBooster0",
+          "AttackDronesBay",
+          "RotationLockItem",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "3": [
+          "PickerUpperDroneItem",
+          "ShieldGenerator1",
+          "EnergyAuraGenerator1",
+          "GooBlastUtil",
+          "PushItem1",
+          "AsteroidGrinderItem"
+        ],
+        "4": [
+          "TauntItem",
+          "VacuumModulator4",
+          "EvasiveSystem",
+          "FlareItem"
+        ],
+        "5": [
+          "DockingBayItem",
+          "GasHarvester",
+          "ActiveShield",
+          "ActiveEnergyBooster1",
+          "VacuumModulator5"
+        ],
+        "6": [
+          "EnergyNetLauncher",
+          "StunImmunity"
+        ],
+        "8": [
+          "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "PhotonBarrageUtil"
+        ],
+        "10": [
+          "RewindDevice"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action4",
+      "ItemsPerLevel": {
+        "1": [
+          "CargoEmitter",
+          "VacuumModulator1",
+          "SpaceBrake"
+        ],
+        "2": [
+          "DecoyItem",
+          "HomeBeacon",
+          "DeployableTurretItem",
+          "RepairDroneLauncherItem",
+          "ActiveEnergyBooster0",
+          "VacuumModulator2",
+          "AttackDronesBay",
+          "RotationLockItem",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "3": [
+          "PickerUpperDroneItem",
+          "ShieldGenerator1",
+          "VacuumModulator3",
+          "EnergyAuraGenerator1",
+          "GooBlastUtil",
+          "PushItem1",
+          "AsteroidGrinderItem"
+        ],
+        "4": [
+          "TauntItem",
+          "VacuumModulator4",
+          "EvasiveSystem",
+          "FlareItem"
+        ],
+        "5": [
+          "DockingBayItem",
+          "GasHarvester",
+          "ActiveShield",
+          "ActiveEnergyBooster1",
+          "VacuumModulator5"
+        ],
+        "6": [
+          "EnergyNetLauncher",
+          "StunImmunity"
+        ],
+        "8": [
+          "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "PhotonBarrageUtil"
+        ],
+        "10": [
+          "RewindDevice"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+          "Berserk1",
+          "MiningLaser1",
+          "Shotgun1",
+          "MissileLauncher1",
+          "ChainGun1"
+        ],
+        "2": [
+          "RicochetGun",
+          "AoeRingGun1",
+          "Blaster2",
+          "MiningLaser2",
+          "TractorBeamItem",
+          "MineLauncher",
+          "HealingBeam",
+          "RicochetBlaster",
+          "KineticMineLauncher",
+          "ChainGun2",
+          "SlowHeavyGun"
+        ],
+        "3": [
+          "SniperGun",
+          "Blaster3",
+          "MiningLaser3",
+          "Shotgun2",
+          "MissileLauncher3",
+          "MiniMissileLauncher",
+          "BlinkItem",
+          "ChainGun3"
+        ],
+        "4": [
+          "EnergyBolaGun",
+          "Railgun",
+          "BoomerangGun",
+          "DevastationCoreDetonator",
+          "StunGunItem",
+          "XionGun",
+          "AoeRingGun2",
+          "Blaster4",
+          "Berserk2",
+          "MiningLaser4",
+          "Flamethrower",
+          "Artillery",
+          "ChainGun4"
+        ],
+        "5": [
+          "BeastBombLauncher",
+          "FireworksGun",
+          "Blaster5",
+          "MiningLaser5",
+          "Shotgun3",
+          "GravitonGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "HarpoonGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun",
+          "AoeRingGun3",
+          "Blaster6"
+        ],
+        "7": [
+          "Blaster7",
+          "Berserk3",
+          "Shotgun4",
+          "PhotonBarrageWeapon1",
+          "ShortEnergyDrainBeam"
+        ],
+        "8": [
+          "EpicShotgunItem",
+          "AoeRingGun4",
+          "Blaster8"
+        ],
+        "9": [
+          "FlollowEngine",
+          "TurretEngine1",
+          "Blaster9",
+          "Shotgun5",
+          "TimeBombLauncherItem",
+          "PhotonBarrageUtil",
+          "VoidBeam"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0",
+          "BasicGenerator"
+        ],
+        "2": [
+          "Generator1",
+          "Generator2"
+        ],
+        "3": [
+          "Generator3"
+        ],
+        "4": [
+          "Generator4"
+        ],
+        "5": [
+          "Generator5"
+        ],
+        "6": [
+          "Generator6"
+        ],
+        "7": [
+          "Generator7"
+        ],
+        "8": [
+          "Generator8"
+        ],
+        "9": [
+          "Generator9"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "3": [
+          "Cloack1",
+          "Cloack2",
+          "Cloack3",
+          "Shield1",
+          "Shield2",
+          "Shield3"
+        ],
+        "4": [
+          "Cloack4",
+          "Shield4"
+        ],
+        "5": [
+          "Cloack5",
+          "Shield5"
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+        "2": [
+          "RotationLockItem",
+          "SmallRotationEngine2"
+        ],
+        "4": [
+          "SmallRotationEngine3"
+        ]
+      },
+      "Index": 11,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "1": [
+          "CargoEmitter",
+          "VacuumModulator1",
+          "SpaceBrake"
+        ],
+        "2": [
+          "DecoyItem",
+          "HomeBeacon",
+          "DeployableTurretItem",
+          "RepairDroneLauncherItem",
+          "ActiveEnergyBooster0",
+          "VacuumModulator2",
+          "AttackDronesBay",
+          "RotationLockItem",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "3": [
+          "PickerUpperDroneItem",
+          "ShieldGenerator1",
+          "VacuumModulator3",
+          "EnergyAuraGenerator1",
+          "GooBlastUtil",
+          "PushItem1",
+          "AsteroidGrinderItem"
+        ],
+        "4": [
+          "TauntItem",
+          "VacuumModulator4",
+          "EvasiveSystem",
+          "FlareItem"
+        ],
+        "5": [
+          "DockingBayItem",
+          "GasHarvester",
+          "ActiveShield",
+          "ActiveEnergyBooster1",
+          "VacuumModulator5"
+        ],
+        "6": [
+          "EnergyNetLauncher",
+          "StunImmunity"
+        ],
+        "8": [
+          "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "PhotonBarrageUtil"
+        ],
+        "10": [
+          "RewindDevice"
+        ]
+      },
+      "Index": 12,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "SmallShp15_sg",
+  "AgentID": "SmallShp15"
+}

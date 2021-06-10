@@ -1,0 +1,5 @@
+AddGameObject,PrologueShip2,1,Player
+AddObjectRandomly,SmallShip4A, 100, 20000, 1500, 2
+AddObjectRandomly,PrologueEnemy1, 100, 10000, 3500, 2
+AddDialog,Try to survive!
+Update

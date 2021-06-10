@@ -1,0 +1,56 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "SmallRotationEngine0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "TurretC",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "DeployableTurret",
+  "Count": 9
+}

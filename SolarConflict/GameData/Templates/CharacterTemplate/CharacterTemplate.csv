@@ -1,0 +1,11 @@
+Index,Id,Name,Image,Gender,Faction,GreedingsID
+1,Ai_Helper,A.I. Helper,Ai_Helper,Male,Player,
+2,Laura,Laura,Laura,Female,Neutral,
+3,Sol,Sol,Sol,Female,Neutral,
+4,DoubleB,Double B,M_09,Male,Neutral,
+5,Flen,Flen,flen,Male,Neutral,
+6,Oracle,Southern Oracle,oracle,Female,Neutral,
+7,Drifter,Drifter,M_09,Male,TradingGuild,
+8,void,Void,void2,Male,TheVoid,
+9,AID,AID,Ai_Helper,Android,TheVoid,
+10,GuildDrifter,Guild Drifter,M_09,Male,TradingGuild,

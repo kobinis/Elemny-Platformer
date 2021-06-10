@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 10,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 15,
+      "ItemId": "PhotonBarrageUtil"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T5 - Medium DPS",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip3",
+  "Count": 16
+}

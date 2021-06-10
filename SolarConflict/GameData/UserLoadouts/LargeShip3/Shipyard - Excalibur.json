@@ -1,0 +1,101 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": "ActiveEnergyBooster1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 12,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Shield4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 17,
+      "ItemId": "EnergyAuraGenerator1"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Shipyard - Excalibur",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "LargeShip3",
+  "Count": 18
+}

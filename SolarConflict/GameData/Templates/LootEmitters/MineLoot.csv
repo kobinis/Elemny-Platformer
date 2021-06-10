@@ -1,0 +1,7 @@
+Id,Base*,Level1,Level2,Level3,Level4,Level5,Level6,Level7,Level8,Level9,Level10
+MineLoot1,"#loot{MatC1:1:1:3,MatA1:0.5:1:3,MatB1:0.5:1:3}",,,,,,,,,,
+MineLoot2,"#loot{MatC2:1:1:3,MatA1:0.5:2:3,MatB1:0.5:2:3}",,,,,,,,,,
+MineLoot3,"#loot{MatC3:1:1:3,MatA1:0.5:3:3,MatB1:0.5:3:3}",,,,,,,,,,
+MineLoot4,"#loot{MatC4:1:1:3,MatA1:0.5:4:3,MatB1:0.5:4:3}",,,,,,,,,,
+MineLoot5,"#loot{MatC5:1:1:3,MatA1:0.5:5:3,MatB1:0.5:5:3}",,,,,,,,,,
+MineLoot6,"#loot{MatC6:1:1:3,MatA1:0.5:6:3,MatB1:0.5:6:3}",,,,,,,,,,

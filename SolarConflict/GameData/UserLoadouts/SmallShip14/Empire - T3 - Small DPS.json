@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 5,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 6,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Shield3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator5"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "MaterialConsumingRepairSystem",
+      "Amount": 1
+    }
+  ],
+  "ID": "Empire - T3 - Small DPS",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip14",
+  "Count": 10
+}

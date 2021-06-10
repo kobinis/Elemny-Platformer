@@ -1,0 +1,135 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 3,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": "ActiveShield"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "TensorCannon"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "TensorCannon"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "TensorCannon"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "SmallRapidGenerator"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "StunImmunity"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "FireworksGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "PhotonTorpedoLauncher1",
+      "Amount": 1
+    },
+    {
+      "ItemId": "MiningLaser5",
+      "Amount": 1
+    },
+    {
+      "ItemId": "ChainGun5",
+      "Amount": 1
+    },
+    {
+      "ItemId": "BoomerangAmmoItem",
+      "Amount": 784
+    },
+    {
+      "ItemId": "BeastBombLauncher",
+      "Amount": 1
+    },
+    {
+      "ItemId": "TimeBombLauncherItem",
+      "Amount": 1
+    },
+    {
+      "ItemId": "DockingBayItem",
+      "Amount": 1
+    },
+    {
+      "ItemId": "ChainGun4",
+      "Amount": 1
+    },
+    {
+      "ItemId": "FlakGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "GravitonGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "HarpoonGun",
+      "Amount": 1
+    }
+  ],
+  "ID": "Pirates - High Tech Assault",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip14",
+  "Count": 15
+}

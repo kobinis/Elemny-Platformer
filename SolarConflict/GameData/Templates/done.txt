@@ -1,0 +1,20 @@
+Loot
+Shots
+Projectiles
+
+Ammo V
+Asteroids V
+Battery  V
+engines V
+GroupEmitters
+Kits V
+ParamEmitters
+PowerCores V
+RawMaterials V
+Recipes V
+Shields V
+Ships V
+Shops V
+StoryItems V
+WarHeads V
+Weapons V

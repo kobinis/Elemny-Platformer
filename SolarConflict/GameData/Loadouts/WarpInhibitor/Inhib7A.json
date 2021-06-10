@@ -1,0 +1,111 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "TimeBombLauncherItem"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "ActiveEnergyBooster2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 11,
+      "ItemId": "TimeBombLauncherItem"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 12,
+      "ItemId": "GravitonGun"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 13,
+      "ItemId": "GooBlastUtil"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 14,
+      "ItemId": "ActiveShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 18,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 19,
+      "ItemId": "EnergyNetLauncher"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Inhib7A",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "WarpInhibitor",
+  "Count": 20
+}

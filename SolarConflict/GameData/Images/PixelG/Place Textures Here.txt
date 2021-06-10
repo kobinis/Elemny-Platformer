@@ -1,0 +1,1 @@
+Place textures here - you can use them by file name without extension

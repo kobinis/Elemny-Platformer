@@ -1,0 +1,116 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "OmegaGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "GravitonGun"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 8,
+      "ItemId": "ActiveShield"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 11,
+      "ItemId": "MiningLaser5"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 13,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "#im:Generator6:BarrageImbue"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "#im:Shield6:EmpImbue"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "#im:Shield7:BerserkImbue"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 18,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 19,
+      "ItemId": "StunImmunity"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "PulseBeam",
+      "Amount": 1
+    }
+  ],
+  "ID": "VoidHelperBoss1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "void_revenantHull",
+  "Count": 20
+}

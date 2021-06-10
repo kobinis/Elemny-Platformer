@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 13,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 14,
+      "ItemId": "EmergencyWarp"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Mothership",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "Base1",
+  "Count": 15
+}

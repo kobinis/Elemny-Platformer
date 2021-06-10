@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 5,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "BigLaser",
+      "Amount": 1
+    }
+  ],
+  "ID": "AKC - 1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "HugeShip1",
+  "Count": 12
+}

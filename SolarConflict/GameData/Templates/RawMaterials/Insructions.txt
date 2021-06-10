@@ -1,0 +1,6 @@
+Raw Material template instructions:
+===========================
+Description - Raw materials are items that usually can be minded from Asteroids, and are used to create new items.
+
+Max Stack* (number) – The number of warheads that can be stacked on a single ship inventory slot. (default - 200)
+

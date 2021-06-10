@@ -1,0 +1,37 @@
+Id,Text,Image*,Sound*,NextText*,IsBlocking*,IsSkippable*,Params*,Comments*
+PW1.1_Arrival,I have arrived at node K783. Requesting further instructions.,player,,PW1.2_Instruction,TRUE,TRUE,,
+PW1.2_Instruction,"Very good. Proceed to the system's star and use the device. Remember it should take most of your ships energy to activate and take some time to charge up, so ensure no threats are around.",void,,PW1.3_Acceptness,TRUE,TRUE,,
+PW1.3_Acceptness,Acknowledged. Proceeding to star.,player,,,TRUE,TRUE,,Should be all the way to the sun
+PW2.1_FollowArrow,"Follow the green arrow #image{0,255,0,GoalArrow} to your next objective.",helpicon,,PW2.2.A_MoveMouse,TRUE,TRUE,,
+PW2.2.A_MoveMouse,Press #action{Up} to move towards the mouse cursor(#image{cursor32}) and #action(Down) to move away from it. Use #action(Left) and #action(Right) to strafe.,helpicon,,PW2.2.B_MoveKeys,TRUE,TRUE,,Depends on movement scheme
+PW2.2.B_MoveKeys,Press #action{Up} to move up and #action(Down) to move down. Use #action(Left) and #action(Right) to move left and right.,helpicon,,,TRUE,TRUE,,Depends on movement scheme
+PW3.1_PatrolStart,"Hailing unrecognized ship. This is #color{255,0,0}Federation#dcolor{} patrol ship P580178. \nYou are approaching this system's star which is under Federation protection due to energy harvest. Please identify yourself and state your business.",Prologue_CaptainKemron,,PW3.2.P1_Attack:PW3.2.P2_AskForCommand:PW3.2.P3_MoveOrDie,TRUE,TRUE,,This should be possible from every patrol ship around the outter perimeter.
+PW3.2.P1_Attack,[Attack],player,,,TRUE,TRUE,,"Set hostile param to true, no more talking"
+PW3.2.P2_AskForCommand,Clearance Code SS2293. I wish to speak to your command on urgent matters and must be let through without delay.,player,,PW3.2.P2.1._FindManual,TRUE,TRUE,,
+PW3.2.P3_MoveOrDie,Move out of the way or be destroyed.,player,,PW3.2.P3.1_IHaveOrders,TRUE,TRUE,,
+PW3.2.P2.1._FindManual,Ahh I'm pretty new here so I'm unfamilier with that code...\nPlease hold on while I find my manual...,Prologue_CaptainKemron,,PW3.2.P2.2_MoveAway,TRUE,TRUE,,
+PW3.2.P2.2_MoveAway,Soldier these are highly urgent matters and I will no be delayed due to your negligence! \nLet us through this instant or I'll make sure you never fly again!,player,,PW3.2.P2.3_YesSir,TRUE,TRUE,,
+PW3.2.P2.3_YesSir,Yes sir! Please don't mention this to command! \nI'll make sure to read my manual! Please go through!,Prologue_CaptainKemron,,PW3.2.P2.4_ProceedToCommand,TRUE,TRUE,,
+PW3.2.P2.4_ProceedToCommand,"Proceed to the #color{255,0,0}Federation#dcolor{} command center",helpicon,,,TRUE,TRUE,,Arrow should change from sun to command
+PW3.2.P3.1_IHaveOrders,"You shall not pass! I'll defend the #color{255,0,0}Federation#dcolor{} with my life!",Prologue_CaptainKemron,,PW3.2.P3.2_SoDie,TRUE,TRUE,,
+PW3.2.P3.2_SoDie,Your life it is!,player,,,TRUE,TRUE,,"Set hostile param to true, no more talking"
+PW4.1_CommandStart,"This is captain Kemron of Federation Command ship C4276. \nYou are encroaching on Federation territory, identify yourself and state your business or we will be forced to attack.",Kemron,,PW4.2.P1_Attack:PW4.2.P2_Request:PW4.2.P3_Demand,TRUE,TRUE,,
+PW4.2.P1_Attack,[Attack],player,,,TRUE,TRUE,,
+PW4.2.P2_Request,I request that you remove the forcefield around the star so I can conduct and important experiment.,player,,PW4.2.P2.1_WhoAreYou,TRUE,TRUE,,
+PW4.2.P3_Demand,I demand you disable the energy harvesting system so I can get close to the star.,player,,,TRUE,TRUE,,
+PW4.2.P2.1_WhoAreYou,You are not recognized as part of the Federation. Who is making this request exactly and why should I grant it? \nAlso what kind of experiement are you talking about exactly?,Kemron,,PW4.2.P2.1.P1_Attack:PW4.2.P2.1.P2_Independent,TRUE,TRUE,,
+PW4.2.P2.1.P1_Attack,Ugh why do I bother... [Attack],player,,,TRUE,TRUE,,
+PW4.2.P2.1.P2_Independent,"I am independent. This experiement is essential to the survival of all life in the galaxy, you must let me through this instant!",player,,PW4.2.P2.1.P2.1_What,TRUE,TRUE,,
+PW4.2.P2.1.P2.1_What,An independent? I haven't seen someone unaffiliated in years! \nAnd what do you mean essential to the survival of life in the galaxy? Are you mad? Give me one reason not to arrest you right now!,Kemron,,PW4.2.P2.1.P2.1.P1_Attack:PW4.2.P2.1.P2.1.P2_LetMeGo,TRUE,TRUE,,
+PW4.2.P2.1.P2.1.P1_Attack,This is a waste of time. [Attack],player,,,TRUE,TRUE,,
+PW4.2.P2.1.P2.1.P2_LetMeGo,"This is your final warning, let me go or there will be dire consequences.",player,,PW4.2.P2.1.P2.1.P2.1_Cant,TRUE,TRUE,,
+PW4.2.P2.1.P2.1.P2.1_Cant,Without good reason I'm afraid I simply can't do that. Now lower your weapons and shields or we will have to attack.,Kemron,,PW4.2.P2.1.P2.1.P2.2_Nope,TRUE,TRUE,,
+PW4.2.P2.1.P2.1.P2.2_Nope,No. ,player,,PW4.2.P2.1.P2.1.P2.3_Battle,TRUE,TRUE,,
+PW4.2.P2.1.P2.1.P2.3_Battle,Battle stations it is!,Kemron,,,TRUE,TRUE,,
+PW4.2.P3.1_SayWhat,You demand? You haven't even identified yourself! Who the hell are you to exactly? \nYour ship isn't hailing any common codes.,Kemron,,PW4.2.P3.2_DisableOrDie,TRUE,TRUE,,
+PW4.2.P3.2_DisableOrDie,Disable the forcefield or I will attack.,player,,PW4.2.P2.1.P2.1.P2.3_Battle,TRUE,TRUE,,
+PW5.1_NotOver,"I don't know who you are or who sent you, but the #color{255,0,0}Federation#dcolor{} has millions of ships, you will be taken down! You will pay for this!",Kemron,,PW5.2_SendingWaves,TRUE,TRUE,,When the command center falls
+PW5.2_SendingWaves,They are sending ships to intercept you. Hold them off while I disable the forcefield remotely.,void,,,TRUE,TRUE,,
+PW6.1_Disabled,"The forcefield is down, now equip the device and fire at the star!",void,,PW6.2_Equip,TRUE,TRUE,,
+PW6.2_Equip,Open your inventory by pressing #action{Inventory} and equip the #itemname{StarDestroyerItem}#itemicon{StarDestroyerItem}.,helpicon,,PW6.3_Shoot,TRUE,TRUE,,Force player to hit F2 and equip
+PW6.3_Shoot,Use the #itemname{StarDestroyerItem}#itemicon{StarDestroyerItem} on the star by pressing #action{Action2},helpicon,,,TRUE,TRUE,,

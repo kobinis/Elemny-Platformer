@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 3,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": "StunGunItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": "SprintItem"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Valor",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip9",
+  "Count": 15
+}

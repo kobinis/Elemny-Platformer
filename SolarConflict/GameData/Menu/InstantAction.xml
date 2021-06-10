@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title></Title>
+  <ShowLogo>true</ShowLogo>
+  <PlayMainMenuMusic>true</PlayMainMenuMusic>
+  <MenuEntryList>
+
+    <MenuEntry>
+      <DisplayText>Wave Challenge</DisplayText>
+      <ActivityName>WaveChallenge</ActivityName>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Skirmish !</DisplayText>
+      <ActivityName>Skirmish</ActivityName>
+      <ActivityParams>SmallShip11A,SmallPirate1,SmallPirate2,SmallPirate3,MediumPirate1,MediumPirate2,MediumShip9A,SmallShip4C,Empire1,Empire2,Empire3,Empire4,Federation1,Federation2</ActivityParams>
+    </MenuEntry>
+
+		
+    <MenuEntry>
+      <DisplayText>Back</DisplayText>
+      <ActivityName>back</ActivityName>
+      <ActivityParams></ActivityParams>
+	  <ActivationKey>Escape</ActivationKey>
+    </MenuEntry>
+ 
+  </MenuEntryList>
+</MenuData>

@@ -1,0 +1,119 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 3,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "TensorCannon"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "SmallRapidGenerator"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Cloack9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "BoomerangAmmoItem",
+      "Amount": 935
+    },
+    {
+      "ItemId": "TimeBombLauncherItem",
+      "Amount": 1
+    },
+    {
+      "ItemId": "Blaster0",
+      "Amount": 1
+    },
+    {
+      "ItemId": "EnergyBolaGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "XionGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "KineticMineLauncher",
+      "Amount": 1
+    },
+    {
+      "ItemId": "SlowHeavyGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "Shield9",
+      "Amount": 1
+    }
+  ],
+  "ID": "Pirates - Medium Chaos",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip9",
+  "Count": 15
+}

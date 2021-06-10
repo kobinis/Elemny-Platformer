@@ -1,0 +1,32 @@
+Weapon  template instructions:
+===========================
+Description – For each weapon we need to define which shots he will shot.
+Different weapons can shoot the same shots.
+
+
+Columns:
+=======
+
+Cooldown* (number) – Cooldown between each shot (in frames) 
+
+Inner Cooldown – if the weapon shoot some shots on the same fire action, we might want that each shot will be fired one after the other. If this is the case the Inner Cooldown is the interval between each shot.
+Example: a weapon with cooldown of 5 seconds - shoot 3 big shots when it fired, but he shoot them one by one. If we set the Inner Cooldown to 1 second. When the weapon is fired, one shot will be fired, after a second the second one will be fired and the last one will be fired after another second.
+
+Shot ID – ID of the shot that weapon fire (the shot detriment the damage and etc.)
+Active Time* - Number of frames that the weapon will be active after activation. Usually we don't want it to be active. (default - 1)
+
+Shot Speed
+
+Meter Type* (possible values) - If the weapon require power (like energy or shield), write the type of the meter that its will consume when used. (default – Energy)
+•	Energy
+•	Shield
+
+Meter Cost* (number) -  The amount that we consume from the meter type when we activate fire the weapon.  (default – 0)
+
+Sound ID * - ID of the sound that will be heard  when the weapon fire. (default ID - "sound_shotgun")
+
+Effect ID* - ID of the effect that will be displayed when the weapon fire. (default ID - "GunFlashFx")
+
+Effect Color* -  color of the effect. (default color – white – show the Texture without color), see examples of column color.
+
+Effect Speed* - The speed of the effect animation (Default – 0.1)

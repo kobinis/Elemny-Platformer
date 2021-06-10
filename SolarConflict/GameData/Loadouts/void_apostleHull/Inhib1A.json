@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "down",
+      "LocationID": 0,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "right",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "Artillery"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "TimeBombLauncherItem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "RotationLockItem"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Inhib1A",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "void_apostleHull",
+  "Count": 15
+}

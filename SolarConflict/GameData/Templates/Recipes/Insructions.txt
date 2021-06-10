@@ -1,0 +1,23 @@
+Recipe template instructions:
+===========================
+Description – Recipes are used to create new items by raw materials.
+If you don't create a recipe for an item. a recipe will be created automatically when the game started. (update - this feature isn't activated anymore)
+
+
+Columns:
+=======
+
+Amount Produced (number) – How many items of this type will be created.
+
+Cost1… (text and number* and boolean*) - Which materials are needed to create the item. 
+We can add as many materials as we want. 
+For each material we add needed amount of this material (no fractions) .
+If we don't  mention the amount. the amount will be calculate automatically based on the item price.
+BE CAREFULL - do not create expansive items that can be created by cheap martials, this will allow the player to create infinite money.
+If the matrial is consumed when we create the item. (default - true)
+Example: key item need key mold to create it, the key mold item will be marked as false because the key mold won't be consumed when we create the key
+
+Every material need to end with the suffix "item"
+Example 1: IronItem
+Example 2: IronItem:5
+Example 3: IronItem:1:True

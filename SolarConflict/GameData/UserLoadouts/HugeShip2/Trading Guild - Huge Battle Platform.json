@@ -1,0 +1,99 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 9,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "OmegaShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "OmegaShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 14,
+      "ItemId": "PhotonBarrageUtil"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "TensorCannon",
+      "Amount": 1
+    },
+    {
+      "ItemId": "PhotonBarrageUtil",
+      "Amount": 1
+    },
+    {
+      "ItemId": "TensorCannon",
+      "Amount": 1
+    }
+  ],
+  "ID": "Trading Guild - Huge Battle Platform",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "HugeShip2",
+  "Count": 15
+}

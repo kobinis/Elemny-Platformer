@@ -1,0 +1,95 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "SmallRotationEngine0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "MatB1",
+      "Amount": 24
+    },
+    {
+      "ItemId": "MatA1",
+      "Amount": 39
+    }
+  ],
+  "ID": "FirstNodeEnemy2",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip14",
+  "Count": 15
+}

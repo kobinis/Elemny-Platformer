@@ -1,0 +1,70 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "Shotgun5"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 5,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 6,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "OmegaShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator9"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "MaterialConsumingRepairSystem",
+      "Amount": 1
+    },
+    {
+      "ItemId": "Shield5",
+      "Amount": 1
+    }
+  ],
+  "ID": "Empire - T5 - Small DPS",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip14",
+  "Count": 10
+}

@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "StunGunItem"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "ChainGun3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 3,
+      "ItemId": "PickerUpperDroneItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": "PickerUpperDroneItem"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "EnergyNetLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "ChainGun3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "MissileLauncher3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "PickerUpperDroneItem"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "Rocket1",
+      "Amount": 10
+    }
+  ],
+  "ID": "Pirate4",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip14",
+  "Count": 15
+}

@@ -1,0 +1,11 @@
+\Id,Crafting Station*,Amount Produced,Cost1,Cost2,…
+AutoEnergyKit,CraftingStation,1,Iron,Carbon,RubyItem:1
+BoomerangAmmoItem,AdvancedCraftingStation,5,Steel,,
+Shield1,CraftingStation,1,Iron,Carbon,
+Shield2,CraftingStation,1,Iron,Carbon,EmeraldItem
+Shield3,CraftingStation,1,Iron,Carbon,RubyItem
+Shield4,CraftingStation,1,Iron,Carbon,SapphireItem
+Shield5,CraftingStation,1,Iron,Carbon,AmethystItem
+Shield6,CraftingStation,1,Iron,Carbon,TopazItem
+Shield7,CraftingStation,1,Iron,Carbon,DiamondItem
+MineSpreaderItem,CraftingStation,1,Beryllium,Sulfur,

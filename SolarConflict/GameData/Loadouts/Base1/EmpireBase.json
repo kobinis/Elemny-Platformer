@@ -1,0 +1,81 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "ChainGun2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 6,
+      "ItemId": "SpaceBrake"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "EmpireBase",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "Base1",
+  "Count": 14
+}

@@ -1,0 +1,10 @@
+Id,Size,Price,Level,Icon,Capacity,GenRateInSec,DisruptedGenRateInSec,Recharge delay,Ability*,Ability activation*,Ability cooldown*,Aura Color*
+SmallShield,Small,100,11,ShieldSmallNormalA,1500,120,15,10,,,,
+SmallQuickShield,Small,200,11,ShieldSmallQuick,900,150,30,6,,,,
+SmallTurtleShield,Small,300,11,ShieldSmallTurtle,2500,100,0,18,,,,
+MediumShield,Medium,400,11,ShieldMediumNormalA,4000,300,40,10,,,,
+MediumQuickShield,Medium,500,11,ShieldMediumQuick,2100,400,120,5.5,,,,
+MediumTurtleShield,Medium,600,11,ShieldMediumTurtle,7000,280,10,25,,,,
+LargeShield,Large,700,11,ShieldLargeNormalA,10000,700,100,10,,,,
+LargeQuickShield,Large,800,11,ShieldLargeQuick,5000,800,300,5,,,,
+LargeTurtleShield,Large,900,11,ShieldLargeTurtle,22000,620,50,30,,,,

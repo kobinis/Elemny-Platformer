@@ -1,0 +1,686 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine2"
+        ],
+        "3": [
+          "SmallEngine3",
+        ],
+        "4": [
+          "SmallEngine4",
+        ],
+        "5": [
+          "SmallEngine5",
+        ],
+        "6": [
+          "MediumEngine6",
+        ],
+        "7": [
+          "MediumEngine7",
+        ],
+        "8": [
+          "MediumEngine8",
+        ],
+        "9": [
+          "MediumEngine9",
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "GravitonGun"
+        ],
+		"1": [
+          "GravitonGun"
+        ],
+        "2": [
+          "GravitonGun"
+        ],
+        "3": [
+          "GravitonGun"
+        ],
+        "4": [
+          "GravitonGun"
+        ],
+        "5": [
+          "GravitonGun"
+        ],
+        "6": [
+          "GravitonGun"
+        ],
+		"7": [
+          "GravitonGun"
+        ],
+        "8": [
+          "GravitonGun"
+        ],
+        "9": [
+          "GravitonGun"
+        ]
+      },
+      "Index": 1,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+		"1": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+        "2": [
+          "SlowHeavyGun",
+		  "Shotgun1",
+		  "AoeRingGun1"
+        ],
+        "3": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun1"
+        ],
+        "4": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun2",
+          "Flamethrower"
+        ],
+        "5": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun2",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+		"7": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "9": [
+          "SlowHeavyGun",
+		  "Shotgun5",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ]
+      },
+      "Index": 2,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+		"1": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+        "2": [
+          "SlowHeavyGun",
+		  "Shotgun1",
+		  "AoeRingGun1"
+        ],
+        "3": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun1"
+        ],
+        "4": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun2",
+          "Flamethrower"
+        ],
+        "5": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun2",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+		"7": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "9": [
+          "SlowHeavyGun",
+		  "Shotgun5",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ]
+      },
+      "Index": 3,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+		"1": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+        "2": [
+          "SlowHeavyGun",
+		  "Shotgun1",
+		  "AoeRingGun1"
+        ],
+        "3": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun1"
+        ],
+        "4": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun2",
+          "Flamethrower"
+        ],
+        "5": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun2",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+		"7": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "9": [
+          "SlowHeavyGun",
+		  "Shotgun5",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+		"1": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+        "2": [
+          "SlowHeavyGun",
+		  "Shotgun1",
+		  "AoeRingGun1"
+        ],
+        "3": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun1"
+        ],
+        "4": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun2",
+          "Flamethrower"
+        ],
+        "5": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun2",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+		"7": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "9": [
+          "SlowHeavyGun",
+		  "Shotgun5",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ]
+      },
+      "Index": 5,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+        "1": [
+          "SlowHeavyGun",
+		  "Shotgun1"
+        ],
+        "2": [
+          "SlowHeavyGun",
+		  "Shotgun1",
+		  "AoeRingGun1"
+        ],
+        "3": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun1"
+        ],
+        "4": [
+          "SlowHeavyGun",
+		  "Shotgun2",
+		  "AoeRingGun2",
+          "Flamethrower"
+        ],
+        "5": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun2",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5"
+        ],
+        "6": [
+          "SlowHeavyGun",
+		  "Shotgun3",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+        "7": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun3",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun",
+          "AoeRingGun3"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "Shotgun4",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "9": [
+          "SlowHeavyGun",
+		  "Shotgun5",
+		  "AoeRingGun4",
+          "Flamethrower",
+          "FireworksGun",
+          "ChainGun5",
+		  "FlakGun"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action4",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+		"1": [
+          null
+        ],
+        "2": [
+          "ActiveEnergyBooster0"
+        ],
+        "3": [
+          "ActiveEnergyBooster0"
+        ],
+        "4": [
+          "ActiveEnergyBooster0"
+        ],
+        "5": [
+          "ActiveEnergyBooster1"
+        ],
+        "6": [
+          "ActiveEnergyBooster1"
+        ],
+		"7": [
+          "ActiveEnergyBooster1"
+        ],
+        "8": [
+          "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "ActiveEnergyBooster2"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "0": [
+          "SprintItem"
+        ],
+		"1": [
+          "SprintItem"
+        ],
+        "2": [
+          "SprintItem"
+        ],
+        "3": [
+          "SprintItem"
+        ],
+        "4": [
+          "SprintItem"
+        ],
+        "5": [
+          "SprintItem"
+        ],
+        "6": [
+          "SprintItem"
+        ],
+		"7": [
+          "SprintItem"
+        ],
+        "8": [
+          "SprintItem"
+        ],
+        "9": [
+          "SprintItem"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0",
+        ],
+        "2": [
+          "MediumRapidGenerator"
+        ],
+        "3": [
+          "MediumRapidGenerator"
+        ],
+        "4": [
+          "MediumRapidGenerator"
+        ],
+        "5": [
+          "MediumRapidGenerator"
+        ],
+        "6": [
+          "MediumRapidGenerator"
+        ],
+        "7": [
+          "MediumRapidGenerator"
+        ],
+        "8": [
+          "MediumRapidGenerator"
+        ],
+        "9": [
+          "MediumRapidGenerator"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Shield1"
+        ],
+		"1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield3"
+        ],
+		"4": [
+          "Shield4"
+        ],
+		"5": [
+          "Shield5"
+        ],
+		"6": [
+          "Shield6"
+        ],
+		"7": [
+          "Shield7"
+        ],
+		"8": [
+          "Shield8"
+        ],
+		"9": [
+          "Shield9"
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+		"2": [
+          "SmallRotationEngine2"
+        ],
+        "3": [
+          "SmallRotationEngine3"
+        ],
+        "4": [
+          "MediumRotationEngine1"
+        ],
+		"5": [
+          "MediumRotationEngine1"
+        ],
+		"6": [
+          "MediumRotationEngine2"
+        ],
+		"7": [
+          "MediumRotationEngine2"
+        ],
+		"8": [
+          "MediumRotationEngine3"
+        ],
+		"9": [
+          "MediumRotationEngine3"
+        ]
+      },
+      "Index": 11,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+		"1": [
+          null
+        ],
+        "2": [
+          null
+        ],
+        "3": [
+          null
+        ],
+        "4": [
+          null
+        ],
+        "5": [
+          null
+        ],
+        "6": [
+          "StunImmunity"
+        ],
+		"7": [
+          "StunImmunity"
+        ],
+        "8": [
+          "StunImmunity"
+        ],
+        "9": [
+          "StunImmunity"
+        ]
+      },
+      "Index": 12,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "LargeShip2_sg",
+  "AgentID": "LargeShip2"
+}

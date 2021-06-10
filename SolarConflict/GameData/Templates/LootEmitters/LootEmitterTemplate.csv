@@ -1,0 +1,12 @@
+Id,Base*,Level1,Level2,Level3,Level4,Level5,Level6,Level7,Level8,Level9,Level10
+CargoShipLoot,"#all{#loot{Human:0.5:1:2}, MatC1,#pickone{RepairKit1:2,EnergyKit1:2,AsteroidPullMine:1,HomeBeaconKit:2}}",#loot{MatC1:1:4},#loot{MatC2:1:4},#loot{MatC3:1:4},#loot{MatC4:1:4},#loot{MatC5:1:4},#loot{MatC6:1:4},,,,
+TurretALoot,Cmp1,Cmp1,Cmp2,Cmp3,Cmp4,Cmp5,Cmp6,Cmp7,Cmp8,Cmp9,Cmp10
+TurretBLoot,LightBulb,Cmp1,Cmp2,Cmp3,Cmp4,Cmp5,Cmp6,Cmp7,Cmp8,Cmp9,Cmp10
+TurretCLoot,,,,,,,,,,,
+CrateALoot,"#loot{AsteroidPullMine:0.2:1:2, RepairKit1:0.5:1:3, HomeBeaconKit:1:1, MatC1}",MatC1,MatC2,MatC3,MatC4,MatC5,MatC6,MatC6,MatC6,MatC6,MatC6
+CrateBLoot,LightBulb,MatC1,MatC2,MatC3,MatC4,MatC5,MatC6,MatC6,MatC6,MatC6,MatC6
+WarpInhibLoot,InhibitorCore,,#loot{InhibitorCore:1:1},#loot{InhibitorCore:1:2},#loot{InhibitorCore:1:1},#loot{InhibitorCore:1:3},#loot{InhibitorCore:1:4},#loot{InhibitorCore:1:5},#loot{InhibitorCore:1:5},#loot{InhibitorCore:1:5},#loot{InhibitorCore:1:5}
+MinerBossLoot,DevastationCore,"#pickone{ChainGun2,Shotgun2, AttackDronesBay}",,,,,,,,,
+WeaponLoot,MatC1,,,,,,,,,,
+BigWormLoot,"#all{LivingCore:0.6,HumanRemains:0.2}",,,,,,,,,,
+FactionBaseLoot,"#all{LivingCore:0.01,HumanRemains:0.05,HumanRemains:0.05,Human:0.5,Human:0.5,Human:0.5,DevastationCore:0.1}",,,,,,,,,,

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Desgin Challenge</Title>  
+  
+  <MenuEntryList>      	
+    <MenuEntry>
+      <DisplayText>Design Challenge 1</DisplayText>
+      <ActivityName>DesignChallengeScene</ActivityName>
+      <ActivityParams></ActivityParams>
+	    <ParamList>
+        <string>Ships,StartingShip1,StartingShip1</string>
+        <string>EnemyShips,StartingShip1,PrologueShip1</string>
+		<string>Items,ChainGun2</string>
+		<string>Money,5000</string>
+      </ParamList>
+    </MenuEntry>	
+		
+	
+    <MenuEntry>
+      <DisplayText>Back</DisplayText>
+      <ActivityName>back</ActivityName>      
+    </MenuEntry>
+	
+  </MenuEntryList>
+</MenuData>

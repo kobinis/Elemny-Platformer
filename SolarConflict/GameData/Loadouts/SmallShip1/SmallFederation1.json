@@ -1,0 +1,56 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "MiningLaser2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine1"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "SmallFederation1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip1",
+  "Count": 9
+}

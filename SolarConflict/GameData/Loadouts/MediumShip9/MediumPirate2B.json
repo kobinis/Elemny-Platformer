@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 3,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 14,
+      "ItemId": "EnergyAuraGenerator1"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "MediumPirate2B",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip9",
+  "Count": 15
+}

@@ -1,0 +1,7 @@
+AddGameObject,PrologueShip1,1,Player
+AddGameObject,AllyShip1,2
+AddGameObject,AllyShip1,2
+AddObjectRandomly,BigAsteroid, 100, 5000
+Update
+SetPositionsInCircle,2000
+AddDialog,Eliminate both of your enemies!

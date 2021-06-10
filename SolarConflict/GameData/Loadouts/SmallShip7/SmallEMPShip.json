@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "StunGunItem"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 5,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 6,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "SmallRotationEngine0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "SmallEMPShip",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip7",
+  "Count": 11
+}

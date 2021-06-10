@@ -1,0 +1,127 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 3,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": "FlareItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": "FlareItem"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "Railgun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "SprintItem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "EchoSprintItem"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "MineAmmo5",
+      "Amount": 931
+    },
+    {
+      "ItemId": "Missile0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "Missile0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "Missile0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "Missile0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "MineLauncher",
+      "Amount": 1
+    },
+    {
+      "ItemId": "Generator0",
+      "Amount": 1
+    },
+    {
+      "ItemId": "MineAmmo1",
+      "Amount": 995
+    },
+    {
+      "ItemId": "MineAmmo3",
+      "Amount": 995
+    },
+    {
+      "ItemId": "MineLauncher",
+      "Amount": 1
+    }
+  ],
+  "ID": "Test Ship",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip9",
+  "Count": 15
+}

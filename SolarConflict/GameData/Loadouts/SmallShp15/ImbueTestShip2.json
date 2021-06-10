@@ -1,0 +1,85 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "KineticMineLauncher"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 6,
+      "ItemId": "ActiveShield"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 7,
+      "ItemId": "DeployableTurretItem"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "MineLauncher"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "#im:SmallRapidGenerator:BarrageImbue"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "MineAmmo1",
+      "Amount": 15
+    },
+    {
+      "ItemId": "#im:MediumQuickShield:BarrageImbue",
+      "Amount": 1
+    }
+  ],
+  "ID": "ImbueTestShip2",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShp15",
+  "Count": 13
+}

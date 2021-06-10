@@ -1,0 +1,81 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "Blaster5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Blaster4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 8,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 9,
+      "ItemId": "GooBlastUtil"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "MediumRotationEngine2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire4",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip4",
+  "Count": 14
+}

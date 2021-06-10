@@ -1,0 +1,312 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine1"
+        ],
+        "3": [
+          "SmallEngine2",
+        ],
+        "4": [
+          "SmallEngine2"
+        ],
+        "5": [
+          "SmallEngine3",
+		  "FireTrailSprint"
+        ],
+		"6": [
+          "SmallEngine3",
+		  "FireTrailSprint"
+        ],
+		"7": [
+          "SmallEngine4",
+		  "FireTrailSprint"
+        ],
+		"8": [
+          "SmallEngine4",
+		  "FireTrailSprint"
+        ],
+		"9": [
+          "SmallEngine5",
+		  "FireTrailSprint"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "Shotgun1"
+        ],
+        "1": [
+          "Shotgun1"
+        ],
+        "2": [
+          "Shotgun2"
+        ],
+        "3": [
+          "Shotgun2"
+        ],
+        "4": [
+          "Shotgun3"
+        ],
+        "5": [
+          "Shotgun3"
+        ],
+        "6": [
+          "Shotgun4"
+        ],
+        "7": [
+          "Shotgun4"
+        ],
+        "8": [
+          "Shotgun5"
+        ],
+        "9": [
+          "Shotgun5"
+        ]
+      },
+      "Index": 1,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Shotgun1"
+        ],
+        "1": [
+          "Shotgun1"
+        ],
+        "2": [
+          "Shotgun2"
+        ],
+        "3": [
+          "Shotgun2"
+        ],
+        "4": [
+          "Shotgun3"
+        ],
+        "5": [
+          "Shotgun3"
+        ],
+        "6": [
+          "Shotgun4"
+        ],
+        "7": [
+          "Shotgun4"
+        ],
+        "8": [
+          "Shotgun5"
+        ],
+        "9": [
+          "Shotgun5"
+        ]
+      },
+      "Index": 2,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Shotgun1"
+        ],
+        "1": [
+          "Shotgun1"
+        ],
+        "2": [
+          "Shotgun2"
+        ],
+        "3": [
+          "Shotgun2"
+        ],
+        "4": [
+          "Shotgun3"
+        ],
+        "5": [
+          "Shotgun3"
+        ],
+        "6": [
+          "Shotgun4"
+        ],
+        "7": [
+          "Shotgun4"
+        ],
+        "8": [
+          "Shotgun5"
+        ],
+        "9": [
+          "Shotgun5"
+        ]
+      },
+      "Index": 3,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "1": [
+          null
+        ],
+        "2": [
+          "ActiveEnergyBooster0"
+        ],
+        "3": [
+          "ActiveEnergyBooster0"
+        ],
+        "4": [
+          "ActiveEnergyBooster0"
+        ],
+        "5": [
+          "ActiveEnergyBooster1"
+        ],
+        "6": [
+          "ActiveEnergyBooster1"
+        ],
+		"7": [
+          "ActiveEnergyBooster1"
+        ],
+        "8": [
+          "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "ActiveEnergyBooster2"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": null,
+      "Index": 5,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": null,
+      "Index": 6,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+		"2": [
+          "SmallRotationEngine2"
+        ],
+        "3": [
+          "SmallRotationEngine3"
+        ],
+        "4": [
+          "MediumRotationEngine1"
+        ],
+		"5": [
+          "MediumRotationEngine1"
+        ],
+		"6": [
+          "MediumRotationEngine2"
+        ],
+		"7": [
+          "MediumRotationEngine2"
+        ],
+		"8": [
+          "MediumRotationEngine3"
+        ],
+		"9": [
+          "MediumRotationEngine3"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield3"
+        ],
+		"4": [
+          "Shield4"
+        ],
+		"5": [
+          "Shield5"
+        ],
+		"6": [
+          "Shield6"
+        ],
+		"7": [
+          "Shield7"
+        ],
+		"8": [
+          "Shield8"
+        ],
+		"9": [
+          "Shield9"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0",
+        ],
+        "2": [
+          "MediumRapidGenerator"
+        ],
+        "3": [
+          "MediumRapidGenerator"
+        ],
+        "4": [
+          "MediumRapidGenerator"
+        ],
+        "5": [
+          "MediumRapidGenerator"
+        ],
+        "6": [
+          "MediumRapidGenerator"
+        ],
+        "7": [
+          "MediumRapidGenerator"
+        ],
+        "8": [
+          "MediumRapidGenerator"
+        ],
+        "9": [
+          "MediumRapidGenerator"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "SmallShip14_sg",
+  "AgentID": "SmallShip14"
+}

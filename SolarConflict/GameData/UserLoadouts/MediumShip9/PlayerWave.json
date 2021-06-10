@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 3,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": "ActiveEnergyBooster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "Berserk1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield8"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "PlayerWave",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip9",
+  "Count": 15
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <title>Settings</title>
+  <MenuEntryList>
+
+   <MenuEntry>
+      <DisplayText>Sound</DisplayText>
+      <ActivityName>VolumeSettingsActivity</ActivityName>
+    </MenuEntry>
+	
+	<MenuEntry>
+      <DisplayText>Key Binding</DisplayText>
+      <ActivityName>KeyBindingActivity</ActivityName>
+    </MenuEntry>
+
+      <MenuEntry>
+      <DisplayText>Graphics Settings</DisplayText>
+      <ActivityName>GraphicsSettingsActivity</ActivityName>
+	  <ActivityParams>HideRes</ActivityParams>
+     </MenuEntry>
+	 
+	<MenuEntry>
+      <DisplayText>Gameplay</DisplayText>
+      <ActivityName>GameplaySettingsActivity</ActivityName>
+    </MenuEntry>
+			
+    <MenuEntry>
+      <DisplayText>Back</DisplayText>
+      <ActivityName>back</ActivityName>
+      <ActivityParams></ActivityParams>
+    </MenuEntry>
+  </MenuEntryList>
+</MenuData>

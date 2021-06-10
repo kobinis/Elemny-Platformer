@@ -1,0 +1,351 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine1"
+        ],
+        "3": [
+          "SmallEngine2",
+        ],
+        "4": [
+          "SmallEngine2"
+        ],
+        "5": [
+          "SmallEngine3"
+        ],
+		"6": [
+          "SmallEngine3"
+        ],
+		"7": [
+          "SmallEngine4"
+        ],
+		"8": [
+          "SmallEngine4"
+        ],
+		"9": [
+          "SmallEngine5"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "1": [
+          "SlowHeavyGun"
+        ],
+        "2": [
+          "SlowHeavyGun"
+        ],
+        "3": [
+          "ChainGun4"
+        ],
+        "4": [
+          "ChainGun4"
+        ],
+        "5": [
+          "SlowHeavyGun"
+        ],
+        "6": [
+          "SlowHeavyGun"
+        ],
+        "7": [
+          "SlowHeavyGun",
+		  "FireworksGun"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "FireworksGun"
+        ],
+        "9": [
+          "ChainGun5"
+        ]
+      },
+      "Index": 1,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "1": [
+          null
+        ],
+        "2": [
+          null
+        ],
+        "3": [
+          null
+        ],
+        "4": [
+          "EchoSprintItem"
+        ],
+        "5": [
+          "EchoSprintItem"
+        ],
+        "6": [
+          "EchoSprintItem"
+        ],
+		"7": [
+          "EchoSprintItem"
+        ],
+        "8": [
+          "EchoSprintItem"
+        ],
+        "9": [
+          "EchoSprintItem"
+        ],
+      },
+      "Index": 2,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action4",
+      "ItemsPerLevel": {
+        "1": [
+          null
+        ],
+        "2": [
+		  null
+        ],
+        "3": [
+		  "ActiveEnergyBooster0",
+          null
+        ],
+        "4": [
+          "ActiveEnergyBooster0",
+		  null
+        ],
+        "5": [
+		  "ActiveEnergyBooster0",
+		  "ActiveEnergyBooster1",
+		  null
+        ],
+        "6": [
+          "ActiveEnergyBooster0",
+		  "ActiveEnergyBooster1",
+		  null
+        ],
+		"7": [
+          "ActiveEnergyBooster1",
+		  "ActiveEnergyBooster2"
+        ],
+        "8": [
+          "ActiveEnergyBooster1",
+		  "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "ActiveEnergyBooster2"
+        ]
+      },
+      "Index": 3,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+        "1": [
+          null
+        ],
+        "2": [
+          null
+        ],
+        "3": [
+          null
+        ],
+        "4": [
+          "ChainGun4"
+        ],
+        "5": [
+          "ChainGun4"
+        ],
+        "6": [
+          "SlowHeavyGun",
+		  "FireworksGun"
+        ],
+		"7": [
+          "SlowHeavyGun",
+		  "FireworksGun"
+        ],
+        "8": [
+          "SlowHeavyGun",
+		  "FireworksGun"
+        ],
+        "9": [
+		  "SlowHeavyGun",
+		  "FireworksGun",
+          "ChainGun5"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": null,
+      "Index": 5,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 6,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "BasicGenerator"
+        ],
+		"1": [
+          "SmallExpandedGenerator"
+        ],
+        "2": [
+          "SmallExpandedGenerator"
+        ],
+        "3": [
+          "SmallExpandedGenerator"
+        ],
+        "4": [
+          "SmallExpandedGenerator"
+        ],
+        "5": [
+          "SmallExpandedGenerator"
+        ],
+        "6": [
+          "SmallExpandedGenerator"
+        ],
+        "7": [
+          "SmallExpandedGenerator"
+        ],
+        "8": [
+          "SmallExpandedGenerator"
+        ],
+        "9": [
+          "SmallExpandedGenerator"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "1": [
+          "Cloack1"
+        ],
+        "2": [
+          "Cloack2"
+        ],
+        "3": [
+          "Cloack2"
+        ],
+		"4": [
+          "Cloack3"
+        ],
+		"5": [
+          "Cloack3"
+        ],
+		"6": [
+          "Cloack4"
+        ],
+		"7": [
+          "Cloack4"
+        ],
+		"8": [
+          "Cloack5"
+        ],
+		"9": [
+          "Cloack5"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+        "3": [
+          "SmallRotationEngine1"
+        ],
+        "5": [
+          "SmallRotationEngine2"
+        ],
+		"7": [
+          "SmallRotationEngine2"
+        ],
+		"9": [
+          "SmallRotationEngine3"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "1": [
+          null, 
+          null, 
+          "SpaceBrake"
+        ],
+        "2": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+        "3": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+        "4": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+        "5": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+        "6": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+        "7": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+		"8": [
+          null,
+          "ActiveEnergyBooster0",
+        ],
+        "9": [
+          null,
+          "ActiveEnergyBooster0",
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "SmallShip7_sg",
+  "AgentID": "SmallShip7"
+}

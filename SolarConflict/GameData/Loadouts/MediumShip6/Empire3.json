@@ -1,0 +1,81 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Cloack1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire3",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip6",
+  "Count": 14
+}

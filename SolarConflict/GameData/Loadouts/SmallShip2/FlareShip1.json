@@ -1,0 +1,71 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "FlareItem"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 3,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 4,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 11,
+      "ItemId": "SprintItem"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "FlareShip1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip2",
+  "Count": 12
+}

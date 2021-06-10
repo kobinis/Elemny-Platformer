@@ -1,0 +1,96 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action3",
+      "LocationID": 0,
+      "ItemId": "EvasiveSystem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 4,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Artillery"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Blaster1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "Blaster1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Artillery"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "Artillery"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 10,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 11,
+      "ItemId": "Blaster1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "FlakGun",
+      "Amount": 0
+    }
+  ],
+  "ID": "VoidMedLv1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip1",
+  "Count": 16
+}

@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 3,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "VacuumModulator1"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "BoomerangAmmoItem",
+      "Amount": 6
+    }
+  ],
+  "ID": "Skill",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip6",
+  "Count": 10
+}

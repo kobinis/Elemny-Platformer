@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T1 - Base",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "Base1",
+  "Count": 15
+}

@@ -1,0 +1,101 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "XionGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "XionGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 10,
+      "ItemId": "PhotonBarrageWeapon1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "LargeGuild1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "LargeShip3",
+  "Count": 18
+}

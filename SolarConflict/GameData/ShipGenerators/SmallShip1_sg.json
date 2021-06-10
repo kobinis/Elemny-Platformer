@@ -1,0 +1,143 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine2"
+        ],
+        "3": [
+          "SmallEngine3",
+          "FireTrailSprint"
+        ],
+        "4": [
+          "SmallEngine4"
+        ],
+        "5": [
+          "SmallEngine5"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 1,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": null,
+      "Index": 2,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": null,
+      "Index": 3,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": null,
+      "Index": 4,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action4",
+      "ItemsPerLevel": null,
+      "Index": 5,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0",
+          "BasicGenerator"
+        ],
+        "2": [
+          "Generator1",
+          "Generator2"
+        ],
+        "3": [
+          "Generator3"
+        ],
+        "4": [
+          "Generator4"
+        ],
+        "5": [
+          "Generator5"
+        ],
+        "6": [
+          "Generator6"
+        ],
+        "7": [
+          "Generator7"
+        ],
+        "8": [
+          "Generator8"
+        ],
+        "9": [
+          "Generator9"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "3": [
+          "Cloack1",
+          "Cloack2",
+          "Cloack3",
+          "Shield1",
+          "Shield2",
+          "Shield3"
+        ],
+        "4": [
+          "Cloack4",
+          "Shield4"
+        ],
+        "5": [
+          "Cloack5",
+          "Shield5"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+        "2": [
+          "RotationLockItem",
+          "SmallRotationEngine2"
+        ],
+        "4": [
+          "SmallRotationEngine3"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "SmallShip1_sg",
+  "AgentID": "SmallShip1"
+}

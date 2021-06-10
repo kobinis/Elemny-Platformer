@@ -1,0 +1,71 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "SprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 5,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 6,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "SmallExpandedGenerator"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Cloack5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "Cloack1",
+      "Amount": 1
+    }
+  ],
+  "ID": "Empire - T5 - Small Stealth",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip7",
+  "Count": 11
+}

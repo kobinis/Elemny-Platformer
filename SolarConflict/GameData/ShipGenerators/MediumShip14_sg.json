@@ -1,0 +1,1014 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine2"
+        ],
+        "3": [
+          "SmallEngine3",
+        ],
+        "4": [
+          "SmallEngine4",
+        ],
+        "5": [
+          "SmallEngine5",
+        ],
+        "6": [
+          "MediumEngine6",
+        ],
+        "7": [
+          "MediumEngine7",
+        ],
+        "8": [
+          "MediumEngine8",
+        ],
+        "9": [
+          "MediumEngine9",
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 1,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": null,
+      "Index": 2,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "0": [
+           null
+        ],
+		"1": [
+           "SpaceBrake"
+        ],
+        "2": [
+          "ActiveEnergyBooster0",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "3": [
+          "ActiveEnergyBooster0",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "4": [
+          "ActiveEnergyBooster0",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "5": [
+          "ActiveEnergyBooster1",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield"
+        ],
+        "6": [
+          "ActiveEnergyBooster1",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield",
+          "EnergyNetLauncher"
+        ],
+        "8": [
+          "ActiveEnergyBooster2",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield",
+          "EnergyNetLauncher"
+        ],
+        "9": [
+          "ActiveEnergyBooster2",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield",
+          "EnergyNetLauncher"
+        ]
+      },
+      "Index": 3,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action4",
+      "ItemsPerLevel": {
+        "0": [
+           null
+        ],
+		"1": [
+           "SpaceBrake"
+        ],
+        "2": [
+          "ActiveEnergyBooster0",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "3": [
+          "ActiveEnergyBooster0",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "4": [
+          "ActiveEnergyBooster0",
+          "EchoSprintItem",
+          "SprintItem"
+        ],
+        "5": [
+          "ActiveEnergyBooster1",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield"
+        ],
+        "6": [
+          "ActiveEnergyBooster1",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield",
+          "EnergyNetLauncher"
+        ],
+        "8": [
+          "ActiveEnergyBooster2",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield",
+          "EnergyNetLauncher"
+        ],
+        "9": [
+          "ActiveEnergyBooster2",
+		  "EchoSprintItem",
+          "SprintItem",
+          "ActiveShield",
+          "EnergyNetLauncher"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+		  "Shotgun1",
+		  "MiningLaser1"
+        ],
+        "2": [
+          "Blaster2",
+		  "AoeRingGun1",
+		  "Shotgun1",
+		  "Berserk1",
+		  "MiningLaser2",
+          "MineLauncher",
+          "KineticMineLauncher"
+        ],
+        "3": [
+          "Blaster3",
+		  "AoeRingGun1",
+		  "Shotgun2",
+		  "MiningLaser3",
+		  "MineLauncher",
+          "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun"
+        ],
+        "4": [
+		  "Blaster4",
+		  "AoeRingGun2",
+		  "Shotgun2",
+		  "Berserk2",
+		  "MiningLaser4",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2"
+        ],
+        "5": [
+		  "Blaster5",
+		  "AoeRingGun2",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5"
+        ],
+        "6": [
+          "Blaster6",
+		  "AoeRingGun3",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "7": [
+          "Blaster7",
+		  "AoeRingGun3",
+		  "Shotgun4",
+		  "Berserk3",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "8": [
+          "Blaster8",
+		  "AoeRingGun4",
+		  "Shotgun4",
+		  "Berserk3",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun",
+		  "EpicShotgunItem"
+        ],
+        "9": [
+          "Blaster9",
+		  "AoeRingGun4",
+		  "Shotgun5",
+		  "Berserk3",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun",
+		  "EpicShotgunItem"
+        ]
+      },
+      "Index": 5,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+		  "Shotgun1",
+		  "MiningLaser1"
+        ],
+        "2": [
+          "Blaster2",
+		  "AoeRingGun1",
+		  "Shotgun1",
+		  "Berserk1",
+		  "MiningLaser2",
+          "MineLauncher",
+          "KineticMineLauncher"
+        ],
+        "3": [
+          "Blaster3",
+		  "AoeRingGun1",
+		  "Shotgun2",
+		  "MiningLaser3",
+		  "MineLauncher",
+          "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun"
+        ],
+        "4": [
+		  "Blaster4",
+		  "AoeRingGun2",
+		  "Shotgun2",
+		  "Berserk2",
+		  "MiningLaser4",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2"
+        ],
+        "5": [
+		  "Blaster5",
+		  "AoeRingGun2",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5"
+        ],
+        "6": [
+          "Blaster6",
+		  "AoeRingGun3",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "7": [
+          "Blaster7",
+		  "AoeRingGun3",
+		  "Shotgun4",
+		  "Berserk3",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun"
+        ],
+        "8": [
+          "Blaster8",
+		  "AoeRingGun4",
+		  "Shotgun4",
+		  "Berserk3",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun",
+		  "EpicShotgunItem"
+        ],
+        "9": [
+          "Blaster9",
+		  "AoeRingGun4",
+		  "Shotgun5",
+		  "Berserk3",
+		  "MiningLaser5",
+		  "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher5",
+		  "SniperGun",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "FlakGun",
+		  "EpicShotgunItem"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+		  "Shotgun1",
+		  "MiningLaser1"
+        ],
+        "2": [
+          "Blaster2",
+		  "AoeRingGun1",
+		  "Shotgun1",
+		  "Berserk1",
+		  "MiningLaser2",
+          "MineLauncher",
+          "KineticMineLauncher"
+        ],
+        "3": [
+          "Blaster3",
+		  "AoeRingGun1",
+		  "Shotgun2",
+		  "MiningLaser3",
+		  "MineLauncher",
+          "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun"
+        ],
+        "4": [
+		  "Blaster4",
+		  "AoeRingGun2",
+		  "Shotgun2",
+		  "Berserk2",
+		  "MiningLaser4",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2"
+        ],
+        "5": [
+		  "Blaster5",
+		  "AoeRingGun2",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+          "MissileLauncher5",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "HarpoonGun",
+		  "BeastBombLauncher"
+        ],
+        "6": [
+          "Blaster6",
+		  "AoeRingGun3",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "HarpoonGun",
+		  "BeastBombLauncher",
+		  "TensorCannon"
+        ],
+        "7": [
+          "Blaster7",
+		  "AoeRingGun3",
+		  "Shotgun4",
+		  "Berserk3",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "HarpoonGun",
+		  "TensorCannon"
+        ],
+        "8": [
+          "Blaster8",
+		  "AoeRingGun4",
+		  "Shotgun4",
+		  "Berserk3",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "EpicShotgunItem",
+		  "HarpoonGun",
+		  "TensorCannon"
+        ],
+        "9": [
+          "Blaster9",
+		  "AoeRingGun4",
+		  "Shotgun5",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "EpicShotgunItem",
+		  "HarpoonGun",
+		  "TensorCannon",
+		  "TimeBombLauncherItem"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+		  "Shotgun1",
+		  "MiningLaser1"
+        ],
+        "2": [
+          "Blaster2",
+		  "AoeRingGun1",
+		  "Shotgun1",
+		  "Berserk1",
+		  "MiningLaser2",
+          "MineLauncher",
+          "KineticMineLauncher"
+        ],
+        "3": [
+          "Blaster3",
+		  "AoeRingGun1",
+		  "Shotgun2",
+		  "MiningLaser3",
+		  "MineLauncher",
+          "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun"
+        ],
+        "4": [
+		  "Blaster4",
+		  "AoeRingGun2",
+		  "Shotgun2",
+		  "Berserk2",
+		  "MiningLaser4",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2"
+        ],
+        "5": [
+		  "Blaster5",
+		  "AoeRingGun2",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+          "MissileLauncher5",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "HarpoonGun",
+		  "BeastBombLauncher"
+        ],
+        "6": [
+          "Blaster6",
+		  "AoeRingGun3",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "HarpoonGun",
+		  "BeastBombLauncher",
+		  "TensorCannon"
+        ],
+        "7": [
+          "Blaster7",
+		  "AoeRingGun3",
+		  "Shotgun4",
+		  "Berserk3",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "HarpoonGun",
+		  "TensorCannon"
+        ],
+        "8": [
+          "Blaster8",
+		  "AoeRingGun4",
+		  "Shotgun4",
+		  "Berserk3",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "EpicShotgunItem",
+		  "HarpoonGun",
+		  "TensorCannon"
+        ],
+        "9": [
+          "Blaster9",
+		  "AoeRingGun4",
+		  "Shotgun5",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "EpicShotgunItem",
+		  "HarpoonGun",
+		  "TensorCannon",
+		  "TimeBombLauncherItem"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1",
+		  "Shotgun1",
+		  "MiningLaser1"
+        ],
+        "2": [
+          "Blaster2",
+		  "AoeRingGun1",
+		  "Shotgun1",
+		  "Berserk1",
+		  "MiningLaser2",
+          "MineLauncher",
+          "KineticMineLauncher"
+        ],
+        "3": [
+          "Blaster3",
+		  "AoeRingGun1",
+		  "Shotgun2",
+		  "MiningLaser3",
+		  "MineLauncher",
+          "KineticMineLauncher",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+		  "SniperGun"
+        ],
+        "4": [
+		  "Blaster4",
+		  "AoeRingGun2",
+		  "Shotgun2",
+		  "Berserk2",
+		  "MiningLaser4",
+          "GuidedPlasmaGun",
+          "MissileLauncher3",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2"
+        ],
+        "5": [
+		  "Blaster5",
+		  "AoeRingGun2",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+          "MissileLauncher5",
+          "Railgun",
+          "BoomerangGun",
+          "Berserk2",
+          "FireworksGun",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "HarpoonGun",
+		  "BeastBombLauncher"
+        ],
+        "6": [
+          "Blaster6",
+		  "AoeRingGun3",
+		  "Shotgun3",
+		  "Berserk2",
+		  "MiningLaser5",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+          "ChainGun5",
+		  "HarpoonGun",
+		  "BeastBombLauncher",
+		  "TensorCannon"
+        ],
+        "7": [
+          "Blaster7",
+		  "AoeRingGun3",
+		  "Shotgun4",
+		  "Berserk3",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "HarpoonGun",
+		  "TensorCannon"
+        ],
+        "8": [
+          "Blaster8",
+		  "AoeRingGun4",
+		  "Shotgun4",
+		  "Berserk3",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "EpicShotgunItem",
+		  "HarpoonGun",
+		  "TensorCannon"
+        ],
+        "9": [
+          "Blaster9",
+		  "AoeRingGun4",
+		  "Shotgun5",
+          "MissileLauncher5",
+          "Railgun",
+          "Berserk2",
+          "PhotonTorpedoLauncher1",
+          "MissileLauncher5",
+		  "EpicShotgunItem",
+		  "HarpoonGun",
+		  "TensorCannon",
+		  "TimeBombLauncherItem"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0"
+        ],
+		"1": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "2": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "3": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "4": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "5": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "6": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "7": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "8": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ],
+        "9": [
+          "MediumExpandedGenerator",
+		  "MediumRapidGenerator"
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Shield1"
+        ],
+		"1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield3"
+        ],
+		"4": [
+          "Shield4"
+        ],
+		"5": [
+          "Shield5"
+        ],
+		"6": [
+          "Shield6"
+        ],
+		"7": [
+          "Shield7"
+        ],
+		"8": [
+          "Shield8"
+        ],
+		"9": [
+          "Shield9"
+        ]
+      },
+      "Index": 11,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Shield1"
+        ],
+		"1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield3"
+        ],
+		"4": [
+          "Shield4"
+        ],
+		"5": [
+          "Shield5"
+        ],
+		"6": [
+          "Shield6"
+        ],
+		"7": [
+          "Shield7"
+        ],
+		"8": [
+          "Shield8"
+        ],
+		"9": [
+          "Shield9"
+        ]
+      },
+      "Index": 12,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+		"2": [
+          "SmallRotationEngine2"
+        ],
+        "3": [
+          "SmallRotationEngine3"
+        ],
+        "4": [
+          "MediumRotationEngine1"
+        ],
+		"5": [
+          "MediumRotationEngine1"
+        ],
+		"6": [
+          "MediumRotationEngine2"
+        ],
+		"7": [
+          "MediumRotationEngine2"
+        ],
+		"8": [
+          "MediumRotationEngine3"
+        ],
+		"9": [
+          "MediumRotationEngine3"
+        ]
+      },
+      "Index": 13,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+		"1": [
+          null
+        ],
+        "2": [
+          null
+        ],
+        "3": [
+          null
+        ],
+        "4": [
+          null
+        ],
+        "5": [
+          null
+        ],
+        "6": [
+          "StunImmunity"
+        ],
+		"7": [
+          "StunImmunity"
+        ],
+        "8": [
+          "StunImmunity"
+        ],
+        "9": [
+          "StunImmunity"
+        ]
+      },
+      "Index": 14,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "MediumShip14_sg",
+  "AgentID": "MediumShip14"
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <title></title>
+  <MenuEntryList>
+     <MenuEntry>
+      <DisplayText>Loadout Editor Clean</DisplayText>
+      <ActivityName>AgentSelectActivity</ActivityName>
+      <ActivityParams>LoadoutEditorScene,UserLoadouts</ActivityParams>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Check loadouts in battle</DisplayText>
+      <ActivityName>Skirmish</ActivityName>
+      <ActivityParams>#user</ActivityParams>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Loadout Editor</DisplayText>
+      <ActivityName>AgentSelectActivity</ActivityName>
+      <ActivityParams>LoadoutEditorScene</ActivityParams>
+    </MenuEntry>
+	
+
+
+    <MenuEntry>
+      <DisplayText>Ship Editor</DisplayText>
+      <ActivityName>AgentSelectActivity</ActivityName>
+      <ActivityParams>ShipEditor</ActivityParams>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Skirmish All Ships</DisplayText>
+      <ActivityName>Skirmish</ActivityName>
+    </MenuEntry>
+
+
+
+
+    <MenuEntry>
+      <DisplayText>Text Validation</DisplayText>
+      <ActivityName>TextValidation</ActivityName>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Items</DisplayText>
+      <ActivityName>ShowItemsActivity</ActivityName>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Recipes Activity</DisplayText>
+      <ActivityName>ShowRecipesActivity</ActivityName>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Level Editor</DisplayText>
+      <ActivityName>LevelEditorActivity</ActivityName>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Test Scene</DisplayText>
+      <ActivityName>TestScene</ActivityName>
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Test Performance</DisplayText>
+      <ActivityName>TestPerformance</ActivityName>
+    </MenuEntry>
+
+
+    <MenuEntry>
+      <DisplayText>Back</DisplayText>
+      <ActivityName>back</ActivityName>
+      <ActivityParams></ActivityParams>
+    </MenuEntry>
+
+  </MenuEntryList>
+</MenuData>

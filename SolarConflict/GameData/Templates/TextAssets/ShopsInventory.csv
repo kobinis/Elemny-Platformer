@@ -1,0 +1,3 @@
+Id,Text,Image*,Sound*,NextText*,IsBlocking*,IsSkippable*,Params*,Comments*
+GustavShopInv,"Chip,SmallEngine1,Berserk1,Shield2,SmallRapidGenerator,EchoSprintItem",,,,,,,
+GuildShopInv,"SniperGun,MiningLaser1,MiniMissileLauncher,ActiveEnergyBooster1",,,,,,,

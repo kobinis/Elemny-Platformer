@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "SprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 5,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 6,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Generator7"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Cloack1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "SmallRotationEngine2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T4 - Small Stealth Bomber",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip7",
+  "Count": 11
+}

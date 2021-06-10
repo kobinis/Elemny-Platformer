@@ -1,0 +1,358 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine1"
+        ],
+        "3": [
+          "SmallEngine2",
+        ],
+        "4": [
+          "SmallEngine2"
+        ],
+        "5": [
+          "SmallEngine3"
+        ],
+		"6": [
+          "SmallEngine3"
+        ],
+		"7": [
+          "SmallEngine4"
+        ],
+		"8": [
+          "SmallEngine4"
+        ],
+		"9": [
+          "SmallEngine5"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": null,
+      "Index": 1,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 2,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": null,
+      "Index": 3,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "down",
+      "ItemsPerLevel": null,
+      "Index": 4,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1"
+        ],
+        "2": [
+          "Blaster2"
+        ],
+        "3": [
+          "Blaster3"
+        ],
+        "4": [
+          "Blaster4"
+        ],
+        "5": [
+          "Blaster5"
+        ],
+        "6": [
+          "Blaster6"
+        ],
+        "7": [
+          "Blaster7"          
+        ],
+        "8": [
+          "Blaster8"
+        ],
+        "9": [
+          "Blaster9"
+        ]
+      },
+      "Index": 5,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "Blaster0"
+        ],
+        "1": [
+          "Blaster1"
+        ],
+        "2": [
+          "Blaster2"
+        ],
+        "3": [
+          "Blaster3"
+        ],
+        "4": [
+          "Blaster4"
+        ],
+        "5": [
+          "Blaster5"
+        ],
+        "6": [
+          "Blaster6"
+        ],
+        "7": [
+          "Blaster7"          
+        ],
+        "8": [
+          "Blaster8"
+        ],
+        "9": [
+          "Blaster9"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "EnergyBolaGun"
+        ],
+        "1": [
+          "EnergyBolaGun"
+        ],
+        "2": [
+          "EnergyBolaGun"
+        ],
+        "3": [
+          "EnergyBolaGun"
+        ],
+        "4": [
+          "EnergyBolaGun"
+        ],
+        "5": [
+          "EnergyBolaGun"
+        ],
+        "6": [
+          "EnergyBolaGun",
+		  "EnergyNetLauncher"
+        ],
+        "7": [
+          "EnergyBolaGun",
+		  "EnergyNetLauncher"
+        ],
+        "8": [
+          "EnergyBolaGun",
+		  "EnergyNetLauncher"
+        ],
+        "9": [
+          "EnergyBolaGun",
+		  "EnergyNetLauncher"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "BasicGenerator"
+        ],
+		"1": [
+          "SmallExpandedGenerator"
+        ],
+        "2": [
+          "SmallExpandedGenerator"
+        ],
+        "3": [
+          "SmallExpandedGenerator"
+        ],
+        "4": [
+          "SmallExpandedGenerator"
+        ],
+        "5": [
+          "SmallExpandedGenerator"
+        ],
+        "6": [
+          "SmallExpandedGenerator"
+        ],
+        "7": [
+          "SmallExpandedGenerator"
+        ],
+        "8": [
+          "SmallExpandedGenerator"
+        ],
+        "9": [
+          "SmallExpandedGenerator"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Shield1"
+        ],
+		"1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield2"
+        ],
+		"4": [
+          "Shield3"
+        ],
+		"5": [
+          "Shield3"
+        ],
+		"6": [
+          "Shield4"
+        ],
+		"7": [
+          "Shield4"
+        ],
+		"8": [
+          "Shield5"
+        ],
+		"9": [
+          "Shield5"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Shield1"
+        ],
+		"1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield2"
+        ],
+		"4": [
+          "Shield3"
+        ],
+		"5": [
+          "Shield3"
+        ],
+		"6": [
+          "Shield4"
+        ],
+		"7": [
+          "Shield4"
+        ],
+		"8": [
+          "Shield5"
+        ],
+		"9": [
+          "Shield5"
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+        "3": [
+          "SmallRotationEngine1"
+        ],
+        "5": [
+          "SmallRotationEngine2"
+        ],
+		"7": [
+          "SmallRotationEngine2"
+        ],
+		"9": [
+          "SmallRotationEngine3"
+        ]
+      },
+      "Index": 11,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "0": [
+          "DecoyItem"
+        ],
+		"1": [
+          "DecoyItem"
+        ],
+        "2": [
+          "DecoyItem"
+        ],
+        "3": [
+          "DecoyItem"
+        ],
+        "4": [
+          "DecoyItem"
+        ],
+        "5": [
+          "DecoyItem",
+          "ActiveShield"
+        ],
+        "6": [
+          "DecoyItem",
+          "ActiveShield"
+        ],
+        "8": [
+          "DecoyItem",
+          "ActiveShield"
+        ],
+        "9": [
+          "DecoyItem",
+          "ActiveShield"
+        ]
+      },
+      "Index": 12,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "SmallShip4_sg",
+  "AgentID": "SmallShip4"
+}

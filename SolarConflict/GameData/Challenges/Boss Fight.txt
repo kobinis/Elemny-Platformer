@@ -1,0 +1,7 @@
+AddGameObject,LargeShip1A,2
+AddGameObject,AllyShip1,1,Player
+AddGameObject,SmallShip4A,1
+AddObjectRandomly,BigAsteroid, 100, 5000
+Update
+SetPositionsInCircle,2000
+AddDialog,Will you survive a fight with the boss?

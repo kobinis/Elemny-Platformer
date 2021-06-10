@@ -1,0 +1,425 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine2"
+        ],
+        "3": [
+          "SmallEngine3",
+          "FireTrailSprint"
+        ],
+        "4": [
+          "SmallEngine4",
+		  "FireTrailSprint"
+        ],
+        "5": [
+          "SmallEngine5",
+		  "FireTrailSprint"
+        ],
+        "6": [
+          "MediumEngine6",
+		  "FireTrailSprint"
+        ],
+        "7": [
+          "MediumEngine7",
+		  "FireTrailSprint"
+        ],
+        "8": [
+          "MediumEngine8",
+		  "FireTrailSprint"
+        ],
+        "9": [
+          "MediumEngine9",
+		  "FireTrailSprint"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 1,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": null,
+      "Index": 2,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "down",
+      "ItemsPerLevel": null,
+      "Index": 3,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "AoeRingGun1"
+        ],
+        "1": [
+          "AoeRingGun1"
+        ],
+        "2": [
+          "AoeRingGun1"
+        ],
+        "3": [
+          "AoeRingGun1"
+        ],
+        "4": [
+          "AoeRingGun2"
+        ],
+        "5": [
+          "AoeRingGun2"
+        ],
+        "6": [
+          "AoeRingGun3"
+        ],
+        "7": [
+          "AoeRingGun3"
+        ],
+        "8": [
+          "AoeRingGun4"
+        ],
+        "9": [
+          "AoeRingGun4"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "AoeRingGun1"
+        ],
+        "1": [
+          "AoeRingGun1"
+        ],
+        "2": [
+          "AoeRingGun1"
+        ],
+        "3": [
+          "AoeRingGun1"
+        ],
+        "4": [
+          "AoeRingGun2"
+        ],
+        "5": [
+          "AoeRingGun2"
+        ],
+        "6": [
+          "AoeRingGun3"
+        ],
+        "7": [
+          "AoeRingGun3"
+        ],
+        "8": [
+          "AoeRingGun4"
+        ],
+        "9": [
+          "AoeRingGun4"
+        ]
+      },
+      "Index": 5,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "AoeRingGun1"
+        ],
+        "1": [
+          "AoeRingGun1"
+        ],
+        "2": [
+          "AoeRingGun1"
+        ],
+        "3": [
+          "AoeRingGun1"
+        ],
+        "4": [
+          "AoeRingGun2"
+        ],
+        "5": [
+          "AoeRingGun2"
+        ],
+        "6": [
+          "AoeRingGun3"
+        ],
+        "7": [
+          "AoeRingGun3"
+        ],
+        "8": [
+          "AoeRingGun4"
+        ],
+        "9": [
+          "AoeRingGun4"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action2",
+      "ItemsPerLevel": {
+        "0": [
+          "AoeRingGun1"
+        ],
+        "1": [
+          "AoeRingGun1"
+        ],
+        "2": [
+          "AoeRingGun1"
+        ],
+        "3": [
+          "AoeRingGun1"
+        ],
+        "4": [
+          "AoeRingGun2"
+        ],
+        "5": [
+          "AoeRingGun2"
+        ],
+        "6": [
+          "AoeRingGun3"
+        ],
+        "7": [
+          "AoeRingGun3"
+        ],
+        "8": [
+          "AoeRingGun4"
+        ],
+        "9": [
+          "AoeRingGun4"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "1": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "2": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "3": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "4": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "5": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "6": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "7": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "8": [
+          "MaterialConsumingRepairSystem"
+        ],
+        "9": [
+          "MaterialConsumingRepairSystem"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0",
+        ],
+        "2": [
+          "MediumRapidGenerator"
+        ],
+        "3": [
+          "MediumRapidGenerator"
+        ],
+        "4": [
+          "MediumRapidGenerator"
+        ],
+        "5": [
+          "MediumRapidGenerator"
+        ],
+        "6": [
+          "MediumRapidGenerator"
+        ],
+        "7": [
+          "MediumRapidGenerator"
+        ],
+        "8": [
+          "MediumRapidGenerator"
+        ],
+        "9": [
+          "MediumRapidGenerator"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield3"
+        ],
+		"4": [
+          "Shield4"
+        ],
+		"5": [
+          "Shield5"
+        ],
+		"6": [
+          "Shield6"
+        ],
+		"7": [
+          "Shield7"
+        ],
+		"8": [
+          "Shield8"
+        ],
+		"9": [
+          "Shield9"
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "1": [
+          "Shield1"
+        ],
+        "2": [
+          "Shield2"
+        ],
+        "3": [
+          "Shield3"
+        ],
+		"4": [
+          "Shield4"
+        ],
+		"5": [
+          "Shield5"
+        ],
+		"6": [
+          "Shield6"
+        ],
+		"7": [
+          "Shield7"
+        ],
+		"8": [
+          "Shield8"
+        ],
+		"9": [
+          "Shield9"
+        ]
+      },
+      "Index": 11,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+		"2": [
+          "SmallRotationEngine2"
+        ],
+        "3": [
+          "SmallRotationEngine3"
+        ],
+        "4": [
+          "MediumRotationEngine1"
+        ],
+		"5": [
+          "MediumRotationEngine1"
+        ],
+		"6": [
+          "MediumRotationEngine2"
+        ],
+		"7": [
+          "MediumRotationEngine2"
+        ],
+		"8": [
+          "MediumRotationEngine3"
+        ],
+		"9": [
+          "MediumRotationEngine3"
+        ]
+      },
+      "Index": 12,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "1": [
+          null
+        ],
+        "2": [
+          null
+        ],
+        "3": [
+          null
+        ],
+        "4": [
+          null
+        ],
+        "5": [
+          null
+        ],
+        "6": [
+          "StunImmunity"
+        ],
+        "8": [
+          "StunImmunity"
+        ],
+        "9": [
+          "StunImmunity"
+        ]
+      },
+      "Index": 13,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "MediumShip5_sg",
+  "AgentID": "MediumShip5"
+}

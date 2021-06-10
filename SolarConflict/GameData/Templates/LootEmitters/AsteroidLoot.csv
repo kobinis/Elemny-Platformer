@@ -1,0 +1,8 @@
+Id,Base*,Level1,Level2,Level3,Level4,Level5,Level6,Level7,Level8,Level9,Level10
+AsteroidLoot1,"#loot{MatA1:1:1:0, MatA1:0.5:1:0, MatA1:0.2:1:0, MatB1:0.4:1:0}",,,,,,,,,,
+AsteroidLoot2,"#loot{MatA2:1:1:0, MatA2:0.5:1:0, MatA2:0.2:1:0, MatB2:0.4:1:0}",,,,,,,,,,
+AsteroidLoot3,"#loot{MatA3:1:1:0, MatA3:0.5:1:0, MatA3:0.2:1:0, MatB3:0.4:1:0}",,,,,,,,,,
+AsteroidLoot4,"#loot{MatA4:1:1:0, MatA4:0.5:1:0, MatA4:0.2:1:0, MatB4:0.4:1:0}",,,,,,,,,,
+AsteroidLoot5,"#loot{MatA5:1:1:0, MatA5:0.5:1:0, MatA5:0.2:1:0, MatB5:0.4:1:0}",,,,,,,,,,
+AsteroidLoot6,"#loot{MatA6:1:1:0, MatA6:0.5:1:0, MatA1:0.2:1:0, MatB6:0.4:1:0}",,,,,,,,,,
+LavaAsteroidLoot1,"#loot{Obsidian:1:1:0,Obsidian:0.5:1:0,Obsidian:0.5:1:0}",,,,,,,,,,

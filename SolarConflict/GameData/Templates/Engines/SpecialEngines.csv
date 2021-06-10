@@ -1,0 +1,2 @@
+Id,Name*,Description,Quality,Size*,Texture,Equipped Texture,Price,Sell Ratio,Color*,Active Time*,Acceleration,Max Speed,Engine Trail Emitter ID,Cooldown*,Trail Speed*,Trail Color*,Meter Type*,Meter Cost*
+FireTrailSprint,Fire Trail Sprint,Accelerates your ship in explosive bursts; leaves a damaging trail,3,Small,engine1,,1100,0.5,,,6,30,TrailDamage,0,1,125:249:255,,

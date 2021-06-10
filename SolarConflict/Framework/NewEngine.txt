@@ -1,0 +1,9 @@
+﻿Remove Scene, all functionality in GameEngine
+GameEngine holds his own content bank in addtion to global content bank, Emmiting Will first look at the GameEngine Content Bank and then the global
+GameSession an activity that holds GameEngine 
+GameSession will hold global services like AchivmentManager
+GameEngine contines services
+
+
+GUI:
+	* Scalable GUI

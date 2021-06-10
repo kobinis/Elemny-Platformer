@@ -1,0 +1,8 @@
+Id,Name*,Description,Quality,Size*,Texture,Equipped Texture,Price,Sell Ratio,Color*,Turret*,Cooldown,Inner Cooldown,Shot Name,Active Time*,Shot Speed,Meter Type*,Meter Cost*,Sound ID,Effect ID,Effect Color*,Kickback,Lifetime*,Category*,Flavour Text*
+ChainGun1,Fast Chain Gun,Shoots energy blasts in bursts,1,Small,RailGun1,Turret9,450,0.5,,TRUE,15,4,Shot1,6,50,Energy,20,sound_shot5,,,0.07,35,Gun,
+ChainGun2,Fusion Blaster,Fires high-energy fusion bursts,2,Small,RailGun2,turret3,600,0.5,,TRUE,20,,FusionShot,1,50,Energy,60,sound_shot5,,,0.09,35,Gun,
+ChainGun3,Fast Fusion Blaster,Fires high-energy fusion bursts,3,Small,RailGun3,turret3,750,0.5,,TRUE,20,4,FusionShot,6,55,Energy,60,sound_shot2,,,0.08,35,Gun,
+ChainGun4,Heavy Gun,Fires a massive ball of energy,4,Small,RailGun4,heavyGun,900,0.5,,TRUE,35,,HeavyShot1,1,40,Energy,140,sound_pulse,,,1,45,Gun,
+ChainGun5,Fast Heavy Gun,Fires a massive ball of energy,5,Small,RailGun5,heavyGun,1050,0.5,,TRUE,25,5,HeavyShot1,10,45,Energy,140,sound_pulse,,,1,45,Gun,
+SlowHeavyGun,Slow Heavy Gun,Fires a slow moving plasma ball,2,Small,RailGun4,heavyGun,900,0.5,,TRUE,60,,"#Amount(HeavyShot2,2)",1,20,Energy,140,sound_pulse,,,1,120,Gun,
+OmegaGun,Omega Gun,A deadly gun that fires high energy bolts,11,Small,RailGun5,heavyGun,2050,0.5,,TRUE,5,,HeavyShot1,1,90,Energy,140,sound_pulse,,,0.1,,Gun,This gun was developed by the Void evolutionary algorithm 

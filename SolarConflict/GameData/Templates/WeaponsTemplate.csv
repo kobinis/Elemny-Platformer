@@ -1,0 +1,12 @@
+Id,Name*,Description,Quality,Size*,Texture,Equipped Texture,Price,Sell Ratio,Color*,Turret*,Cooldown,Inner Cooldown,Shot Name,Active Time*,Shot Speed,Meter Type*,Meter Cost*,Sound Name*,Effect Name*,Effect Color*,Kickback,Lifetime*,Category*
+BlackHoleGun,Blackhole Gun,Creates a black hole,3,Small,TractorBeamItem,heavyGun,1000,0.7,,,180,0,BlackHole,,150,Energy,10,sound_shot1,GunFlashFx,,,,Gun
+PrologueGun,,A gun for the starting ship,2,Small,GunItem,turret1,500,0.7,,,9,0,WeakShot1,,25,Energy,4,,,,,,Gun
+CoolRailGun,,A gun for one of the bosses,1,Small,AttackDrone,rapid-gun,666,0.7,,,8,0,WeakShot2,15,18,Energy,10,,,,,,Gun
+BrokenEmpDevice,Broken E.M.P. Device (Push),For some reason it pushes instead of stuns.,1,Small,EMPItem,item3,100,0.7,,,240,,AoePush1,,0,,0,sound_shot5,,,,,
+HeavyGun,Heavy Gun,Blasts a high energy fusion shot,2,Small,LaserItem,turret5,3000,0.5,,TRUE,90,,HeavyShot,,17,Energy,75,,,,,,Gun
+ChainGun,Chain Gun,Rapid-fire gun,2,Small,GunItem,turret1,800,0.5,,TRUE,30,5,EmitterGun1,20,45,Energy,10,,,,,,Gun
+FusionBlaster,Fusion Blaster ,Blasts a high energy fusion shot,2,Small,LaserItem,turret1,4000,0.5,,TRUE,20,,FusionShot,,26,Energy,20,sound_shot1,,,,,Gun
+KineticShotgun,Kinetic Shotgun,Shoots a number of small pellets \nthat deal damage according to the impact speed.,3,Small,ShotgunIcon,Shotgun,5000,0.5,,TRUE,60,,EmitterShotgun,,30,Energy,25,sound_shotgun,,200:200:255,1,,Gun
+FireRing,Fire Ring,Circle yourself with Fire,1,Small,FireRing,turret1,5000,0.5,,,90,,EmitterFireRing,,0,Energy,3,,,,,,
+Grenade,Grenade,,1,Small,Grenade,turret1,800,0.5,,,30,5,EmitterGrenade,2,5,Energy,50,,,,,,
+SuperShotgun,Super Shotgun,Shoots a number of small pellets \nthat deal damage according to the impact speed.,3,Small,ShotgunIcon,Shotgun,15000,0.5,,TRUE,34,,EmitterShotgun,,40,Energy,25,sound_shotgun,,200:200:255,1,,Gun

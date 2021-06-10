@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action3",
+      "LocationID": 0,
+      "ItemId": "GooBlastUtil"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 1,
+      "ItemId": "VacuumModulator2"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 4,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Blaster3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 10,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Federation3",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip1",
+  "Count": 16
+}

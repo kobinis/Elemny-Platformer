@@ -1,0 +1,99 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 3,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 5,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Berserk2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "Berserk2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "Berserk2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "Berserk2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 14,
+      "ItemId": "ActiveEnergyBooster2"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "ActiveShield",
+      "Amount": 1
+    },
+    {
+      "ItemId": "MiniMissileLauncher",
+      "Amount": 1
+    },
+    {
+      "ItemId": "AttackDronesBay",
+      "Amount": 1
+    }
+  ],
+  "ID": "PirateShip4",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip9",
+  "Count": 15
+}

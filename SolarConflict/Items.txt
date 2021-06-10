@@ -1,0 +1,8 @@
+﻿Crafting:
+	Lower the amount of items you get from asteroids 
+
+Generators:
+	Absorbtion Generator - generates energy when it gets hit
+	Resoanse genrator - Generats energy when out of commbat
+Engine:
+	Resonanse engine

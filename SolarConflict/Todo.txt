@@ -1,0 +1,894 @@
+
+
+
+
+Patch notes:
+	* Now ships rotating ships can be controlled with absultue control, can select it in gameplay settings
+	* Fixed Key Binding!!
+	* You can enable and disable auto save
+	* Gameplay settings
+	* Fixed Inventory Sort
+
+Check:
+	* smallShp15
+	* SmallShip8
+		
+Todo Quick Build (Save saves):	
+	* Energy missile sound
+	* Fix slot count, maybe show ship if clicked on
+	* Change hanger slots to have sizes (Small, Medium, Large, Large)
+	* Show Crafting when imbuing
+	* Blink item - Remove
+	* Shipyards: get loadout ID from text assets
+	* Gameplay settings: add text about control type
+	* Skip tutorial will also skip the prologue 	
+	* Dispose created textures
+	* Sort Scene Components
+	* Use Steel in crafting recpies
+	* Add bigger ships
+	* Add energy boosters to crafting
+	* Add Humean remines to egg crafting recpie
+	* Move the drifter near the Vile Alter 
+	* If you kill the alter it drops an egg
+	* Each warp inhib drops 2 inhib and MatA
+	* Faction bases drop Warp core
+	* Remove inhibitor cores from crafting recpies up to shields level 5
+	* Say that cloacking dosn't work with vacuum
+	* Medium Rotation Crafting
+	* Add grid to tactical map
+	* Attacks on the mothership in pirate notes
+	* interstellar enemies
+	* Fix Oracle, add checkpoints
+	* Don't show text after one time in oracle
+	
+
+Next Build:	
+	* Add shipwreks that you can take cover Behind and harvest with tracktor beam
+	* Fix GUI Scroll to only effect the control with focus
+	* Add main command and secoundery command to fleet slots, add hold fire command
+	* Blink item - finish
+	* Minimap and hitpoints color
+	* Fix cloack with vacuuem
+	* Pirate patrol and attacking cargo ships
+	* Change cargo ships
+	* item: Directional Shield - Points to the cursor
+	* Inventory sort - Don't sort the hotbar slots if they have hotbar item
+	* Auto Equip ships from mothership (Equip with items from mothership with one button)
+	* in first sector change the quest collect carburators with warp core that you get from pirate base
+	* Craft the warp drive at the sun?
+	* Need to do lower level medium gear!!
+	* Fix Lighting engine - and also agent engine light and other lights, make light per object	
+	* Tactical map rework
+	* Update node time after you come back
+	* Change controlling faction according to the faction with most bases
+	* Add game date
+	* Fix Skip tutorial 
+	* Add Faction relations screen and an option to control it
+	* Add mothership upgrades? Slots
+
+Later Build:
+	* Controller support
+
+
+
+Achievements:
+	No one to tell the tale - kill all ships in the prologue
+	Finish the prolog in under 40 sec
+	Lights out - finish the prolog
+	Destroyer of suns - Destroy 10 suns
+		
+
+Lower aggro range of ally ship
+
+
+Vacuum brakes cloacking
+
+When auto equiping move the item in slot to inventory if there is space
+
+
+
+Patch notes:
+	Quality of life:
+		* 
+
+	Bug fixes:
+		* Death location marker now appers currectly
+		* 
+
+
+Add pirate raids and inter stellar space enemies 
+
+Todo:
+	Skip Tutorial 	
+	Add Rotation ship Crafting Station with all rotation engines 
+	Add home beacon kit recipe
+	Add boosters - bi driactional - emitting light when on it
+	Fix auto equip in shop and crafting activity and to ally
+	* In prologue tell that space can skeep text box!
+	Not drop from the first 4 places - no auto sort
+
+
+Add Boss battle in SOL 
+Add mission to go to revelations
+Add sound effect to missiles
+
+Add Crafting Station and Engine Mission
+
+Death place mission will nota apper if you got it someplace else
+
+Handle drawing of 9 segments when size is smaller then edge
+
+
+Remove recyclr bean and make all other basic things cost carbon
+
+Give reward once you finish the orcale
+Don't re do the text once you re-enter the oracle
+
+
+On work computer:
+    * Missile sound
+	* Change oracle image
+	* Mousewheel icon
+
+
+
+Add AutoEquip command
+
+
+Collector:
+	Human remines, bio meaterial, Living core
+	Obsidian, Lomite, Gas harvester/Tractor beam (Maybe reward) Gas
+	Devestation core, inhibitor core, ?Living core?
+
+	Text Asset as a mission data (InJSON):
+	MissionID, TextAssetForMission,Next
+
+
+
+* Show galaxy map right after you make the star drive
+* Collect Inhibitor Core: 
+
+*Add the Starport missions about Warp inhibitors
+
+Add an option to adjust music in loading screen
+
+Fix ShipyardFeature
+Add Save in start
+Fix Player clone
+Add engine crafting
+	Add drifter hull 
+//Add Disable Recycle Bean in first system 
+Pickup inhibitor core when it destroyed
+
+Place a crafting station near the First Starport
+Fix equip bug	
+
+Add Mining station near resorce mines - you can craft lasers
+Make resource mine deplated and recoverd over time
+make resource mine drop only one material + iron
+
+Add auto equip to ally
+
+Change the planet in the prolog to be the very cool plaent
+
+Fix Crafting -
+    * Add missing blueprints
+	* Split to crafting stations and categoreis 
+	* split to categories
+
+Add the qurator( Collector) fetch quests from a list of items
+Add an optional quest at the start to craft engines
+Select Shop items, there can be nutreal shop near the starport at some places
+Explain about auto equip 
+Add Auto Equip also to ally ship
+Achivments?
+Codex?
+
+
+
+Critical:	
+	
+	Add a flag to grop objective to only show arrow once the upper objectives are done
+    When blow factions ships you get thire quippment
+		Send ship images
+	Blueprint unlock
+	
+	UI - make sprite that draws out of the boundery
+	Improve the Emergengy warp item to also heal the mothersship on a long cooldown	
+	Mission archive ()
+
+	Add an Optionak quest at the start to craft engines
+	
+	
+	Build equipped agent generators list ( Each item slot will have a list of items per level )
+	Make Cloack work with vacumm
+    
+
+
+	Temp: light things up (incrice ambiant lighting)
+
+
+	Prolog: if you reach near the sun it will trigger the star destroyer quest
+
+	DO: 
+	Add interaction from the start.
+	Block recycle bean until You finish first system?
+
+	Not for May:
+		Motherships upgrades
+		Item re work
+
+	Marketing for May!:
+		New screen captures on stem
+		Gameplay video on Steam
+		Streaming on Steam
+		Update and a sale annocment with peatch notes
+
+		Presskit
+		Contect small youtubers
+		Ask for feedback on text on Discord
+		Mailing list
+
+		* Exstend auto equip to ally ship, only open ally ship if you interact with it
+
+
+* Add the missing ships (Void) and new ship
+* Move Hulls from files to class 
+		
+TODO:
+ Make items desowan after a while
+ Add categories for items(Not flag): Weapon, Engine,...
+
+Ships abilits:
+	* SmallShip1 - dose damage to hull (bypass shields) will need to be used to dedat a boss with tons of shield but little hitpoints
+
+Now:
+	First system
+
+Main flow !
+May 27th build
+Shipyards with good ships according to level, quest to buy a ship from the shipyard
+Full screen borderlss
+First system content 
+Dificaulty (Easy, Normal)
+Skip prolog
+Arena
+Achivments
+
+TODO: add ship reks 
+
+
+
+
+
+Fix Loading - check why it takes so long
+
+fix imagewarp on agnets
+Fix planet
+	
+	
+	Fixes:
+		Cargo ships - will stay in system from point to point
+		Featch quest from starport
+		Change starport to proive help, repair, meterial analizaer
+		?? Light system
+
+
+	Achivments
+	Trading Cards
+
+
+TODO:
+	
+	* Scrollable Control ( That can hold bigger control)
+
+	* Codex Template
+	 Title, 
+	 Body 
+	 Body Image
+	 Sound File
+
+	* Arena !!
+
+	* Add interrstellar space process	
+	* The collector	
+    * Health bars need to be red green or blue according to alliance 
+
+	* Start by equpping vacum modulator and explain about it
+	* Astroids Loot change: Asteroids will drop 
+
+	* Main flow missions: Collect each of the cores, 
+
+
+	Scrollable Rich Text Control
+	Gui Focus using gui manager
+	* Attacks on the mothership
+	* Remove the loadout editor 
+Bug:
+    
+	* Planets are not drwan currectly in the Tactical Map
+	* Check Key Binding for F1-F4
+
+
+May 27 Build:
+	Arenas
+		1 vs 1
+		?? Racing
+	
+	Generated missions
+		* Deliver mission
+		* Destroy Missions
+		* ??? Protect (It will spwan a ship that is in your faction and will travel to someplace else)
+		* ?? Race
+		* Remove featch item quests
+		Mother ship upgrades
+
+	
+		
+
+	
+
+
+Prototype of Pixel garden and Platformer
+
+
+
+
+
+Desgining warp inhibitors and loot
+Desgining faction ships
+Cargo ships 
+Help screens text
+
+Testing the game
+Making game gifs
+
+
+
+
+
+Fix exsisting items
+Desgin ships and enemies
+Add arena and genrated missions
+Fix crafting tree and stations
+Finish story
+Achivments & Trading cards
+
+=======
+﻿* Change cargo ships not to disapper but potrol and have spesific typs (Cargo and police)
+* Make Elite miner avalable only from level 9
+* Give EMP Imunity blueprint as a reward in oracle
+* Bring back item drop
+* Add green attack in vile
+* add mothership attack
+* Check for crashes
+* Add the Collector in a spasific sector
+* Fix AI control
+* Change UI
+
+
+
+Patch notes:
+	Items:
+	    * Leech Beam - drains energy
+		* Healing beam - repairs nearby ships
+	Graphics:
+		* New starport graphics
+		* New crafting stations
+	UI:
+		When hovering over a item slot items that fit that slot will be highligted
+
+
+
+Lower the amount of items
+
+Fix items, fix missions
+
+Finish Sandbox
+
+Finish Story:
+	
+
+TODO: 
+	Add Vacuem modulator,
+	Add craft Crafting Station and shield
+	Equip Genrator, craft engines
+
+Go over items - 
+Fix loadout editor
+Add achivments
+
+Bring back and fix the wave challange 
+
+Finishing/test:    
+=======
+Finishing/test:
+>>>>>>> 964c216c21de27eeec8ad54146ed8589b7baccfb
+	* Fix Skirmish, select good ships
+	* Flars discriptions and sound
+	* Decoy drone, sell it in the shop near the orcale
+	* Leech drones
+	* Limit arttilery range, add sound!
+	* Change Imbue activity to be more clear, move imbue up, add frame, add title with help
+
+	This week:
+		* Check why runing the game on release (loading with thred) takes so long
+
+	Fix Later:
+		Healing beam:
+			* Add energy need
+			* Add activation time (min 1 sec)
+			* Add effects
+
+Now:
+	* Fix First node speech not matching text (See Discord)
+	* Cloaking not working with vacuum modulator
+    * Shorted blasers range
+    * Slow shots needs longer range!
+	* Change first warp inhib to arttilery 
+	Add Leech drones
+	Inhibs:
+		Missile inhib
+		EMP
+		Drons
+	
+	Loadout names
+		FactionLevel(1-5)A
+
+		
+	Fix borderless fullscreen	
+    For each faction make a list of loadouts per level (1-6)
+	Load with json
+	Start with pirates
+	Add Energy aura item
+    Select enemies for factions
+
+	Challange Editor?:
+	Finish loadout editor: Save to a diffrent directory 
+	(Can also support gen)
+	EnemyTeamLoadouts: 
+	PlayerTeamLoadouts: PlayerClone
+
+		
+	Arena: 
+	    Wave Challange
+		Netural chllanges -
+
+
+
+		//Loadouts, 
+		
+	
+Finishing/test:
+	* Fix Skirmish, select good ships
+	* Flars discriptions and sound
+	* Decoy drone, sell it in the shop near the orcale
+	* Leech drones
+	* Limit arttilery range, add sound!
+	* Change Imbue activity to be more clear, move imbue up, add frame, add title with help
+
+
+
+TODO:
+* Rework crafting - basic crafting needs to be minimal, you will get blueprints
+* Boss with repair ships
+* Add imbue icons
+* Add enemies with missiles - change missiles icon
+* Add small icon to all ammo using weapons
+* Change orcaole/sceound gate level
+* Tunt imbue (shield) - sets all nearby ships that target your faction to you
+* Energy drain
+* Add Tesla that can be collected via tactor beam
+
+TODO: check auto equip from inventory, add Command
+
+* Clocking imbue
+* Time bomb
+ * Fix AI for healing weapons
+* Directed Shield
+* Healing Beam - energy drain, omly use when hitpoints are not full
+
+* Fix ship commands - follow player by default
+* Add arenas - with multiple ships
+* Add Quick equip when hovering over an item, it will replace the lowest level item from the same type
+* Auto Equip for all items
+* Fix Helper AI for round ships
+
+* Minimap need to show icons
+* Try implement shield buff with max shield setter
+* Implement a shiled that on deplition it stuns and after 5 sec it recharches - quick counter is to have emp imunity
+*  Desgin Void ships:
+	* add new void ships
+	* Desgin slots for void ships
+* Change the starport generated aquiire quests from a list of items
+* Shiled 3 and shild 4 got the same recipe
+* Add name and description to generator, make it reactor
+* Change ship destroyed messeage
+* Too manny items in the crafting station
+* Add an option to accsept or reject the driffter mission
+* Add Earth to sol
+* Make Player manager a static class, hold player controls there
+*
+* Enable skip and back with controller, ass menu control
+* Display controller icons when using controller
+* Fix Player controller input for both ship types, look at other games
+* Fix saves - add option to recover items 
+
+
+*************************************************************************************************************
+Backlog:
+	* Fix Tesla Mission, add the collector	
+	* Fix borderless fullscreen
+	* new void ships
+	* Change help for inventory screen to include highligt
+	* Add Global time/date to metaworld, make speedrun challence 
+	* Charge that blows up by electricity - implemented via agent
+	* electricity shot, electricity aura
+	* Stations that work on electricity
+	* Add debug menu is scene component
+
+BarrageImbue - shots missiles
+BerserkImbue - Greatly increase energy generation for 20 sec
+CloakingImbue - 
+EMP Component - stuns
+LifelineImbue - recovers shield once it is down on (cooldown)
+PushImbue - psushes nearby ships
+SlowImbue - Slow arua
+StunImuneImbue - gives you imunity to stun/emp
+TauntImbue - pulls aggro of enemies to you
+
+Patch notes:
+
+
+Test:
+ * Change Imbe station to crafting station
+
+
+Backlog:
+	* Change highlight textures to new thextures from Jan
+	* Change MK I to I
+	* Fix lights (make lights per object)
+	* Screen sometimes fade to white (make sure to change the overlay back to transperent)
+	* Change starport texture
+	* Change Imbue system
+	* Add Controller support
+
+Jan:
+	* Graphics for Artillery
+	* Graphics for time bomb (TimeBombLauncherItem)
+	* Graphics for imbeing items (Find better names)
+	* Healing Beam - graphics, light
+
+
+Vanity:
+	Fireworks
+	music Notes
+	Gird lock utility - moves the agent to a locked grid
+
+Test run:
+	* Sound balancing, add only one sound of a type if all are the same
+	* Change explosion, remove shards update from gameengine
+	* Fix tutorial line, possibly add line to the escape
+	* Less text in the first node
+	* remove crafting station quest
+	* 
+
+	Work on sandbox aspects,
+	Add 
+	Find someone who can help finish the game!
+	too much for me
+
+Bugs:	
+	When crating a new loadout AI is not updated
+	Add crafting categorie filtering in crafting stations
+	Energy aura generator AI - fly near ally ships (Set goal, priortize goal?)
+
+	Change cloacking to be imbuing item
+	Change imbuing name to forgeing?
+	Unable multiple imbuing
+
+	Add big ships, add wave attacks, pirate raids
+	See screenshots and trailer
+	Add arenas
+
+TODO: 
+	Assign all ships to factions:
+		
+
+Enemies:
+	Void:
+	  Weapons: helaing beam, Kamikazi drones, Clone device ( after you kill x times make a clone)
+
+   Pirates:
+       Weapons: 
+             Artillery 1, Artillery 2 (short stun), mine, energy mine, time bomb, harpoon, 
+Asteroid grinder, attacking drones, flamethrower, tactor beam, pull wave, energy drain drone, Energy net
+  
+
+
+Pirate 1: Mine
+
+
+Pirate lord: shotgun, heavy slow gun/artillery, ramming front
+
+ Pirate King: Time bomb, Artillery 2, Missile shield
+
+Pirate boss: harpoon, flamethrower, 
+
+
+
+
+Game test 18.2.21
+	Test ship is not working !!
+	Just finish the game
+	Remove imuing station from the start
+	make multiple imbue
+	
+
+Patch notes:
+ * New textures for Material Analyzer, Imbuing Station, Crafting Station and Advanced Crafting Station
+ * Fixed lighting bug!! 
+
+ Test:
+	* Remove calling activity from Activity, replace with a stack
+	* Test saves growing out of control
+
+
+Enemies:
+    Pirates - Argrrr
+	    Weapons:
+			Artillery - mark an area and blast it after short delay
+			Time bomb - Shots a mine that makes a huge blast after a 8 sec delay (Counts down)
+			Harppon
+			Flamethrower
+			Molotov coctale	
+	
+TODO:
+	* Fix player targeting according to cursor
+
+	* Change resource mine to resourse asteroids
+	* 
+    * Timeout for items 
+	* Finish story	
+	* Add missions
+	* Add boss fights	
+	* add arenas
+	* Add generated missions
+	* Add Achivments and trading cards
+
+	* Change missile debreis
+	* Add phisical debries (Limited number)
+	* Fix minimap
+	* Fix obsidian asteroids
+
+
+	Boss Fights:
+		* Multi Stage Boss - that runs away if there is no player ships around
+		
+
+	Crafting:
+	 * Remove cloacking, add cloacking imbuing
+	 * Remove multiple levels of items, (Engines, Shileds... )
+
+
+	 AI:
+	  * Change the AI not to doage and not to lead at the start =
+	  * Add randomness and retriting algo
+	
+    Fixes:
+		* Fix lights on fireflies
+		* Fix light system, possibly have game object return a list of lights (possibly from systems)
+		* Make all bioms except for asteroid biom well lit
+	GUI:
+		Is Focus: Make gui manager set the focus (Have gui control recive )
+
+	Loadout editor:
+			* saves without json extension
+			* Fix UI save button
+			* Replace jason to NewtonsoftJason - load old version and save al loadouts in new version:
+				Go over loadouts directory structure, load loadouts with old parser and save in a new directory with the same structure
+			* Add generation   
+	
+	Make new loadouts:
+		Void						
+
+	Beam Weapons:
+		* Add beam flag to weapon quick start to use beam system
+		BeamSystem:
+			* Don't crate new beam evrey frame, insted change the lifetime of the beam
+			* Add reset method to all systems
+			* Aff activation cost: Add energy cost to beams - using Activation abstruct class
+		
+		Change exsisting lasers to use beams:
+			Change visuals
+			Make laser apply damage to asteroids
+			
+
+		Content:
+			Rotating mines with 4 lasers
+			Enery drain laser
+			Healing beam
+
+	
+
+	Achivment system:
+		Integrate sytem achivments using 
+
+	Graphics Settings:
+		Fix Graphics settings - look at Hades
+
+	Plot and missions:
+		* Move imbuing station from first node, add imbuing mission
+	
+	UI:
+		Add Codex
+	
+	Refactor:
+		Add rest to GameObject and AgentSystem to be called when moving a scene
+
+	Refactor (Someday):
+		* Make scene not activity and sealled ? 
+		* Make GameSession an activity that hold currentScene
+
+TODO:	    
+	
+Engine changes:	
+	* Particles
+	* Imager
+	* Key mailer
+	* Steam: Dialy Deal
+	* Winter Festival
+	* Yoogcast
+	*Indie game submission, events
+	f
+	* YouTube - 2 sentance pitch - 
+	*
+	* RedIt, Facebook
+	Twittwer: indiedev hour, pitchyagame
+    * Press relase .com
+	* Fix explosions
+	* fix jan particle system
+	* Change scene not to be an activity
+	* Make GameSession an activity
+	* Integrate particle jan particle system
+Now:
+ * 
+ * Fix loadout editor 
+ * Go over settings
+TODO:
+* Remove poat-processing
+* add buffs and debuffs
+* Add all asteroids to a diffrent list
+* Move background darw to game engine, move render target to game engine
+
+* Mercanerys den
+* Fix switch ship list and logic
+* Remove: PlayerAgents
+* Fix switch players
+* Change 
+
+* Light rework
+* Alternative mouse cursor
+* Qucik equip
+* light highways in asteroid sectors
+
+* Move textures to directories - add textures
+* Remove unused sounds
+* Use flags to diecide if to add item if it is not on screen
+* Make debries physical and not added when out of screen
+* Make collision according to mask only
+Weapons:
+ Light saber
+ Resonance engine
+* Desgin enemies =>
+* In secound orcle, make fire wall stop before
+*  Test conversations, once you save and restart
+* 
+* In Generation template - add try catech on spesific line reads - write errors to file
+* Change collision mask and object type just for collision mask aginst mask check
+Fix Steam integration
+orcle to 164
+Sort by categories/item name
+Go over crafing
+Move items frim level 1
+
+Crafting station 
+* Cargo ships are too strong
+* Light in asteroid field blinks when there are too many lights
+
+
+* add a bit of randomness to AI movment (Savoid getting stuck)
+* Repair kit global cooldown!!! currently all repair kits are consomed 
+
+
+* add crit
+* Add mission to craft a crafting station
+* Add fleet tutorial (F3) when drifter joins
+* remove text from oracle
+* Drifter joins you !!
+* Add void ships
+* Add beam textures
+* Add hud options
+* Remove text from secound gate after first try
+* Item draw is off ( Camera.NormalTechniqueFlat not using transform)
+* Add dust to background
+* Fix damage text
+* Check HUD
+* Remove camera draw
+* Finish Small Void Ships - Jan
+* Frame for highlighted items 
+* Change ambiant light color according to sector type, ambiant light needs to be complemetery to the main light - Jan
+* Change starport texture
+
+
+* Fix saves (Null Parent for items, check save, despwn items if there is too much)
+* Show commands of ally ships in tactical map and hanger screen
+
+* Fix agent contol (Not drawing becouse of camera change)
+* Around the starting node sectors need to be level 1
+* Add more crafting options with inhib cores and level 1-2 material
+* Make the first 3 levels of items
+* Move the driffter to the secound node, have him join your fleet, he will teach you about the commands to fleet and switching ships
+* Add Crafting tutorial 
+* Spesific enemies 
+* Add Green Check mark for items you got in a recipe
+* Add Planets in background
+* Add New Void ships
+* Bring back spesific planets
+* Beam System (Beam system and Beam projectile)
+
+Later:
+* Booster rings need to boost in two directions and look diffrent 
+* Add an option to stash to nearby boxes
+* Add Mobile Crafting Stations - they work from inventory/can be placed on mothership
+* Boss fights - boss health bar
+* Blueprints
+* fix AgentGuiControl scale when not squre
+* Check harpoon (Fix Harppon)
+
+Backlog:
+* fix stun graphics - Make stun graphics move with ship and use ship lifetime for animation
+
+
+Itai Weapons:
+	Posion gun
+	Sharks gun
+	Engine that makes you go super fast
+	Radiation
+
+
+Star Singularity 2 (Temp name)
+	* Tile based constructions?
+
+Space Arena (Build a fleet, fight aginst aother fleets, AI NN, GA)
+
+Graphics\refactor:
+* FactionShipsHudCmp - improve graphics: make small ship icons/ select rotation acoording to ship rotation? 
+
+
+
+- Mothership can use an echo sprint, that's okay - ignored for now
+- Mothership inventory accessible at start, that's minor - improved (You can access only once the text starts)
+- Allied ships and fleets not keeping commands is annoying, but it's acceptable.  - Fixed (Still needs improvements in the future)
+- Spending resources before a quest turn-in is deliberate crashing only - (Mostly fixed)
+- Destroying suns are funny but not critical - ignored for now
+- Hiding future quests breaks immersion but not game breaking - ignored for now
+- The trading guild colours are annoying but not game breaking -ignored for now (All allied ship HP bar are green now)
+- Faction shops can be attacked is odd but not critical - ignored for now
+- Repair kit cooldown turns on with full life is annoying only -ignored for now
+- Swapping to the mothership to finish any GoTo quest is a bit odd, but only breaks immersion - ignored for now
+- Reducing the energy kits that drop in the starting system is minor  -ignored for now
+- No dialogue choices with Laura is bad but not game breaking - Fixed
+
+* Dificualty - Kid mode - (also mark skip tutorial) not for this build
+
+Refactor:
+	Minimap
+Background in game engine add to draw darw with and without BACKGROUND
+
+	On Planets have generated shmup levels?
+
+
+General:
+	Game needs to be harder
+	More enemies 

@@ -1,0 +1,38 @@
+Shots  template instructions:
+===================
+Description  - 
+
+
+Columns:
+=======
+Draw Type*
+
+Color Logic*
+
+Size
+
+Max Life Time
+
+Mass – mass of the shot (example 0.1)
+
+Impact Emitter ID – the impact ID animation that  will be activated when the shot will hit the target.
+
+Is Destroyed On Collusion* - most weapons will be destroyed on it will hit the target (default – true)
+
+Is Effected By Force* - Is the weapon effect by force (for example gravity) (default – false)
+
+Damage – damage that will be done when it hit a target.
+
+Collusion Force – Which force the shot inflict on its target when it hit him.
+
+Collision Width*- Width of the projectile for collision, big shots will have high width.
+
+Impact Damage Type* - 
+
+Special effect* (possible values + number*)- 
+•	Energy – drain ship energy
+•	Shield – damage only the ship's shield
+•	Hitpoints – direct damage to the ship, ignores Shield
+•	StunTime – stun the ship (the number is the number of frames the ship is stuned)
+
+

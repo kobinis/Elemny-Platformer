@@ -1,0 +1,6 @@
+AddGameObject,AllyShip1,2
+AddGameObject,AllyShip1,1,Player
+AddObjectRandomly,BigAsteroid, 100, 5000
+Update
+SetPositionsInCircle,2000
+AddDialog,A mirror match.\nTest your skill!

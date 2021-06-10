@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "MediumEngine8"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "MediumEngine8"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "MediumEngine8"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": "MediumEngine8"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "MediumEngine8"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Shotgun4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Shotgun4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Shotgun4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Shotgun4"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 10,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator8"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Generator8"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield7"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MediumRotationEngine2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 15,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T4 - Medium DPS",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip3",
+  "Count": 16
+}

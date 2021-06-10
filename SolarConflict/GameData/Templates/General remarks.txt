@@ -1,0 +1,8 @@
+Remarks: 
+=======
+All time units are in frames unless mention otherwise
+60 frames = 1 second
+1 frame is the lowest measurable time unit in the game.
+
+Column names that end with * means those are optional columns
+Don't write in Id column text with spaces.

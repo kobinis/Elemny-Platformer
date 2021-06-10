@@ -1,0 +1,71 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action2",
+      "LocationID": 0,
+      "ItemId": "TensorCannon"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": "GravitonGun"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 5,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 7,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": "ActiveShield"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "VoidHelper1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "HugeShip1",
+  "Count": 12
+}

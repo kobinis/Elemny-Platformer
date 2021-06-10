@@ -1,0 +1,9 @@
+Id,Crafting Station*,Amount Produced,Cost1,Cost2,…
+CraftingStationKit,Mothership | Basic ,1,MatB1:8,,
+AdvancedCraftingStationKit,CraftingStation,1,InhibitorCore:1,MatB3:20,
+ArmoryKit,CraftingStation,1,MatA2:3,MatB1,Cmp1
+AdvancedArmoryKit,Armory,1,InhibitorCore:1,MatB3:20,
+ForgeKit,Armory,1,DevastationCore:1,MatB1,
+AdvancedForgeKit,Forge,1,MatA4:20,MatB1,
+StorageContainerKit,CraftingStation,1,MatA1,MatC1:2,
+GuideStationKit,CraftingStation,1,MatB1:10,MatC1:1,

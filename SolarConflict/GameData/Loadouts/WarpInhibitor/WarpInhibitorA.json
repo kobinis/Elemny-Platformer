@@ -1,0 +1,111 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action2",
+      "LocationID": 0,
+      "ItemId": "ChainGun2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "ChainGun2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 12,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 13,
+      "ItemId": "ActiveEnergyBooster2"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 14,
+      "ItemId": "RepairDroneLauncherItem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 18,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 19,
+      "ItemId": "ActiveEnergyBooster2"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "WarpInhibitorA",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "WarpInhibitor",
+  "Count": 20
+}

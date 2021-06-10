@@ -1,0 +1,78 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action3",
+      "LocationID": 0,
+      "ItemId": "DecoyItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 1,
+      "ItemId": "DecoyItem"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "HealingBeam"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "HealingBeam"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "HealingBeam"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    },
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    },
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    },
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    }
+  ],
+  "ID": "Empire - T1 - Medium Support",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip16",
+  "Count": 10
+}

@@ -1,0 +1,111 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "none",
+      "LocationID": 0,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "MiningLaser1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": "MiningLaser2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 8,
+      "ItemId": "StunImmunity"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 13,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 18,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 19,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "VoidTestShip",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "void_revenantHull",
+  "Count": 20
+}

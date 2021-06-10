@@ -1,0 +1,111 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 3,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 10,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 11,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 12,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 13,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 14,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 18,
+      "ItemId": null
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 19,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "LargeFederation1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "LargeShip1",
+  "Count": 20
+}

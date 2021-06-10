@@ -1,0 +1,71 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 10,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 11,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "StartingShip1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip3",
+  "Count": 12
+}

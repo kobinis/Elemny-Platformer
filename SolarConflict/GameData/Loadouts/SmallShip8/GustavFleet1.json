@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "AsteroidGrinderItem"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "ShieldGenerator1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "Blaster1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "VacuumModulator5"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "EnergyKit1",
+      "Amount": 17
+    }
+  ],
+  "ID": "GustavFleet1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip8",
+  "Count": 10
+}

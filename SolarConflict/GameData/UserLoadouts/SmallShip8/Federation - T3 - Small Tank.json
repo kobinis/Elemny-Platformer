@@ -1,0 +1,78 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "MissileLauncher3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "Generator5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Shield3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Shield3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "Rocket0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "Rocket0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "Rocket0",
+      "Amount": 100
+    },
+    {
+      "ItemId": "Rocket0",
+      "Amount": 100
+    }
+  ],
+  "ID": "Federation - T3 - Small Tank",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip8",
+  "Count": 10
+}

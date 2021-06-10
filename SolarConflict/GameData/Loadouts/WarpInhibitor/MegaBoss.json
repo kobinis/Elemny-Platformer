@@ -1,0 +1,111 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "GravitonGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": "StunGunItem"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "TurretEngine1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 7,
+      "ItemId": "TurretEngine1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 9,
+      "ItemId": "TimeBombLauncherItem"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 10,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 11,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 12,
+      "ItemId": "TensorCannon"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 13,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 14,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "PrologShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 18,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 19,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "MegaBoss",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "WarpInhibitor",
+  "Count": 20
+}

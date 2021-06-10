@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "MiningLaser1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": "ShieldGenerator1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 5,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 6,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip7",
+  "Count": 11
+}

@@ -1,0 +1,56 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action3",
+      "LocationID": 0,
+      "ItemId": "SprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "MiniMissileLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Shield4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "PushItem1"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Shipyard - Dart",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip13",
+  "Count": 9
+}

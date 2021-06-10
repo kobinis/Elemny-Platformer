@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MusicTitle" xml:space="preserve">
+    <value>Music</value>
+  </data>
+  <data name="MusicVolume" xml:space="preserve">
+    <value>Volume: </value>
+  </data>
+  <data name="Tutorial10KemronHailing" xml:space="preserve">
+    <value>This is Captain Kemron from the Federation starship Vortex.
+You are trespassing in a private Federation sector.
+Identify yourself!</value>
+  </data>
+  <data name="Tutorial11PlayerRespondKemron1" xml:space="preserve">
+    <value>I am a servant of the Void. 
+Stand aside or face annihilation.</value>
+    <comment>I am a servant of the Void. 
+I am executing a test for the prototype Star Destroyer. 
+Stand aside or face annihilation.</comment>
+  </data>
+  <data name="Tutorial12PlayerRespondKemron2" xml:space="preserve">
+    <value>My navigation program is experiencing problems. 
+I will leave this sector immediately.</value>
+  </data>
+  <data name="Tutorial13PlayerRespondKemron3" xml:space="preserve">
+    <value>Prepare for extermination! [Attack]</value>
+    <comment>Prepare for extermination, fleshbags! [Attack]</comment>
+  </data>
+  <data name="Tutorial14PlayerRespondKemron4" xml:space="preserve">
+    <value>[Ignore]</value>
+  </data>
+  <data name="Tutorial15KemronRespond1" xml:space="preserve">
+    <value>All hands - battle stations! 
+Servant of the Void you are surrounded and outnumbered. 
+Lower your shields and prepare to be boarded. 
+This is your last warning.</value>
+  </data>
+  <data name="Tutorial16KemronRespond2" xml:space="preserve">
+    <value>Make sure it does not happen again! 
+Your ship signature has been broadcast to all other ships in this sector. 
+If you enter again without permission, we will fire immediately. Goodbye.</value>
+  </data>
+  <data name="Tutorial17KemronRespond3" xml:space="preserve">
+    <value>All hands -  battle stations! [Attack]</value>
+  </data>
+  <data name="Tutorial18KemronRespond4" xml:space="preserve">
+    <value>Captain Kemron hailing unidentified ship. 
+This is your last warning. 
+Identify yourself, or we will disable your ship. </value>
+    <comment>[The player has the same options again, and if he ignores them, they will attack him]</comment>
+  </data>
+  <data name="Tutorial19Stun" xml:space="preserve">
+    <value>Use #color{255,255,0}Q#defalutColor{} to stun your enemies.
+The stun system takes a long time to recharge.
+Its remaining cooldown is displayed on the bottom right corner.</value>
+    <comment>Your second battle support system allows you to stun enemy ships around you for a few seconds. 
+The stun range is limited, so you will need to be close to the enemy ships.
+The stun system takes a long time to recharge (15 seconds), so use it wisely.
+ The recharge counter of the stun system is displayed on the bottom right corner. 
+The next time you encounter an enemy ship, Use W to try it.</comment>
+  </data>
+  <data name="Tutorial1Awaken" xml:space="preserve">
+    <value>Hyper jump completed successfully. 
+Initialize briefing protocol. 
+Test prototype star destroyer. 
+Do not engage other ships unless hostile activity detected. 
+Commence test.
+(Press space to contiune)</value>
+  </data>
+  <data name="Tutorial20DestroySunVoice" xml:space="preserve">
+    <value>Star destroyer charge complete. #color{255,255,0}Annihilate Sun#defalutColor{}.</value>
+  </data>
+  <data name="Tutorial21DestroySunExplanation" xml:space="preserve">
+    <value>Click #color{255,255,0}1#defalutColor{} to fire star destroyer</value>
+  </data>
+  <data name="Tutorial2Mouse" xml:space="preserve">
+    <value>Use #ctext{255,255,0,"mouse"} wheel to zoom in and out.
+Use #ctext{255,255,0,"WASD"} to move.</value>
+    <comment>Use mouse wheel to zoom in and out.
+Use the mouse to turn your ship. 
+Use WASD to move.</comment>
+  </data>
+  <data name="Tutorial3Zoom" xml:space="preserve">
+    <value>Use mouse wheel to zoom in and out.</value>
+  </data>
+  <data name="Tutorial4Guns" xml:space="preserve">
+    <value>Use left and right mouse buttons to fire the ship guns. </value>
+  </data>
+  <data name="Tutorial5Minerals" xml:space="preserve">
+    <value>Most asteroids will provide minerals that you can gather.
+Minerals are required to upgrade and customize you ship with new weapons, items and ammo. 
+Be carefull when destroing red asteroids, they can explode. 
+Your ship is fully equipped, you don't need to gather any minerals now.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Tutorial6Speed" xml:space="preserve">
+    <value>Click E to activate speed boost.</value>
+    <comment>Your ship is equipped with special battle support systems. 
+Your first system allows you to use shadow speed for short period. 
+Use E to try it.</comment>
+  </data>
+  <data name="Tutorial8PhoenixDevice" xml:space="preserve">
+    <value>Your ship is equipped with a Phoenix Device. 
+It will be activated automatically when your ship is destroyed.
+It will also stun nearby enemies for a few seconds, and push them back.</value>
+  </data>
+  <data name="Tutorial9MoveToSun" xml:space="preserve">
+    <value>
+Follow the arrow until you reach the sun. 
+The star destroyer will be activated when you are near the sun and not in battle.</value>
+    <comment>Servant of the Void, you are ready to test the star destroyer. 
+Follow the arrow until you reach the sun. 
+The star destroyer will be activated when you are near the sun and not in battle.</comment>
+  </data>
+</root>

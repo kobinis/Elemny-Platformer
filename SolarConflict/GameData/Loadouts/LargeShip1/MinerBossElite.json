@@ -1,0 +1,116 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 8,
+      "ItemId": "BigLaser"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 9,
+      "ItemId": "DevastationCoreDetonator"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 10,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 11,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 12,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 13,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 14,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Generator5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "PrologShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "MediumRotationEngine2"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 18,
+      "ItemId": "AsteroidGrinderItem"
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 19,
+      "ItemId": "DevastationCoreFabItem"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "StunImmunity",
+      "Amount": 1
+    }
+  ],
+  "ID": "MinerBossElite",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "LargeShip1",
+  "Count": 20
+}

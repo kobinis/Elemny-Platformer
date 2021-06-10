@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title></Title>
+  <ShowLogo>true</ShowLogo>
+  <PlayMainMenuMusic>true</PlayMainMenuMusic>
+  <MenuEntryList>  
+
+  	<MenuEntry>
+      <DisplayText>Continue</DisplayText>
+      <ActivityName>StartGameActivity</ActivityName>
+	  <ActivityParams>Continue</ActivityParams>	  	  
+    </MenuEntry>
+			
+	<MenuEntry>
+      <DisplayText>Load</DisplayText>
+      <ActivityName>StartGameActivity</ActivityName>
+	  <ActivityParams>Load</ActivityParams>	        
+    </MenuEntry>
+ 
+    <MenuEntry>
+      <DisplayText>New Game</DisplayText>
+	  <TooltipText>Start a new game</TooltipText>
+      <ActivityName>StartGameActivity</ActivityName>  
+	  <ActivityParams>NewGame</ActivityParams>	  
+    </MenuEntry>
+
+    <MenuEntry>
+      <DisplayText>Instant Action</DisplayText>
+      <ActivityName>Menu</ActivityName>
+      <ActivityParams>InstantAction.xml</ActivityParams>
+    </MenuEntry>
+		
+	<MenuEntry>
+      <DisplayText>Settings</DisplayText>
+	  <ActivityName>Menu</ActivityName>
+      <ActivityParams>Settings.xml</ActivityParams>
+    </MenuEntry>
+	
+    <MenuEntry>
+      <DisplayText>Quit</DisplayText>
+      <ActivityName>ExitConfirmActivity</ActivityName>
+      <ActivityParams></ActivityParams>
+	  <ActivationKey>Escape</ActivationKey>
+    </MenuEntry>
+ 
+  </MenuEntryList>
+</MenuData>

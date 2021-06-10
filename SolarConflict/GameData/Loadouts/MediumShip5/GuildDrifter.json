@@ -1,0 +1,94 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "RicochetGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "MediumRotationEngine2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 13,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "BoomerangAmmoItem",
+      "Amount": 8
+    },
+    {
+      "ItemId": "BoomerangGun",
+      "Amount": 1
+    },
+    {
+      "ItemId": "RepairKit3",
+      "Amount": 2
+    }
+  ],
+  "ID": "GuildDrifter",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip5",
+  "Count": 14
+}

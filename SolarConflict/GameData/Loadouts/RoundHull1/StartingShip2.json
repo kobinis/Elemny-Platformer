@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "PileOfJunk"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": "PushItem1"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 12,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "StartingShip2",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "RoundHull1",
+  "Count": 13
+}

@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRapidGenerator"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 12,
+      "ItemId": "EnergyNetLauncher"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Pirates - Medium Rammer",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip7",
+  "Count": 13
+}

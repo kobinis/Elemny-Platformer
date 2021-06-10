@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title></Title>
+  <ShowLogo>true</ShowLogo>
+  <PlayMainMenuMusic>true</PlayMainMenuMusic>
+  <MenuEntryList>  
+    <MenuEntry>
+      <DisplayText>New Game</DisplayText>
+      <ActivityName>StartGameActivity</ActivityName>  
+	  <ActivityParams>NewGame</ActivityParams>	  
+    </MenuEntry>
+		
+    <MenuEntry>
+      <DisplayText>Help</DisplayText>
+      <ActivityName>HelpActivity</ActivityName>
+	  <ActivityParams>HelpMain</ActivityParams>	 
+    </MenuEntry>
+	
+    <MenuEntry>
+      <DisplayText>Settings</DisplayText>
+      <ActivityName>VolumeSettingsActivity</ActivityName>
+    </MenuEntry>
+		
+    <MenuEntry>
+      <DisplayText>Quit</DisplayText>
+      <ActivityName>ExitConfirmActivity</ActivityName>
+      <ActivityParams></ActivityParams>
+	  <ActivationKey>Escape</ActivationKey>
+    </MenuEntry>
+ 
+  </MenuEntryList>
+</MenuData>

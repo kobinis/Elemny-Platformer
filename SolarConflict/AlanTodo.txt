@@ -1,0 +1,60 @@
+﻿Patch notes:
+	Ships will no longer attack Shops and shipyards 
+	Elite Ancient Miner - will drop hull blueprints
+
+
+Test Session Feedback:
+
+Bugs: (Sev 1, 2, 3, and 4)
+
+Sev 1
+Fix Immediately - Cannot Go In Build
+
+Title: Quests seems to end at Start2, or End2. - Fixed needs testing !!!
+Description: Text dialogue doesn't continue in the FirstNode past Start2 or End2.
+Intended Behaviour: Text should continue. Maybe we need to NextText it manually.
+
+Title: All Suns Can Be Destroyed 
+Description: I can destroy a sun with a flamethrower. It will explode.
+Intended Behaviour: Do not let sun be destroyed by weapons.
+
+Title: smMainSpaceportStarDriveHelp (Why Did You Leave Your Last Job?) - ERROR
+Description: Quest starts with description "Why Did You Leave Your Last Job?". When you hit the Spaceport, Laura says "I just received some terrible news. Did you hear about the star that exploded?", which then just generates an ERROR at the bottom.
+This will either skip text choices if no quitting of the game occurs before this part, or an ERROR if there is and the game has been loaded.
+
+Sev 2
+Fix Before Release
+
+Title: Spending Resources Before Quest Turn-In (still an issue with Crafting Stations)
+Description: If you have a quest which requires an item to be crafted, you can spend those resources before the turn in and never continue. Example, when Crafting 2 X Shield I's, you can spend the resources on Crafting Stations. When you reach the mothership, you cannot craft the Shield I, and therefore are stuck. This could happen with every quest based on resources.
+Intended Behaviour: Perhaps give the player the chance to build the item for as many resources as they have left so they don't get stuck? It's hard to account for if building 2 X Small Shield 1's.
+
+Sev 3
+Bad But Not Critical
+
+Title: Allied Ships And Fleet Commands
+Description: Going to new systems will not set allies with any fleet commands. Dying also stops them. Generally these must be re-issued frequently.
+Intended Behaviour: Maintain some sort of fleet command for allied ships.
+
+Sev 4
+People May Not Encounter, Not Terrible If They Do
+
+Title: Inventory Accessible with Mothership Before First Quest
+Description: If you go near the mothership before the 1st quest, you can press F2 and it will pop up a shared inventory right at the start.
+Intended Behaviour: Should not work with F2 until after you have a dialogue with the Mothership.
+
+Title: Mothership Echo Sprint
+Description: She can use it and move.
+Intended Behaviour: Not allow it.
+
+
+
+
+
+Bug: Tactical Map Enabled Too Early
+Description: 
+
+
+
+Bug: Right-clicking Generates Items
+Description: Right clicking on equipment with auto place the current selected player's ship with it.

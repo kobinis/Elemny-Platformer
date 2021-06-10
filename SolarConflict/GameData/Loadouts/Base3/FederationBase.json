@@ -1,0 +1,96 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "ChainGun3"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 9,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 10,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "FederationBase",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "Base3",
+  "Count": 17
+}

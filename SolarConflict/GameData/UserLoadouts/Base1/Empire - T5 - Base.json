@@ -1,0 +1,86 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "FireworksGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "GravitonGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Artillery"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "OmegaShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "OmegaShield"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "MaterialConsumingRepairSystem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MaterialConsumingRepairSystem"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T5 - Base",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "Base1",
+  "Count": 15
+}

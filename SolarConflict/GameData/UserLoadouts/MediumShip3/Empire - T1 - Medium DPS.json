@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Shotgun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 10,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 15,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T1 - Medium DPS",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip3",
+  "Count": 16
+}

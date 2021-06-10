@@ -1,0 +1,11 @@
+Id,Name*,Description,Quality,Size*,Texture,Price,Sell Ratio,Color*,Max Stack*
+Cmp1,Quantum Carburetor,,1,,Cmp1,500,0.25,,
+Cmp2,Omnisprocket,,2,,Cmp2,750,0.25,,
+Cmp3,Space Freshener,,3,,Cmp3,1000,0.25,,
+Cmp4,Resonance Fusor,,4,,Cmp4,1250,0.25,,
+Cmp5,Meson Blender,,5,,Cmp5,1500,0.25,,
+Cmp6,Dissonance Fusor,,6,,Cmp6,1750,0.25,,
+Cmp7,Metaspace Interocitor,,7,,Cmp7,2000,0.25,,
+Cmp8,Sonic Transudcer,,8,,Cmp8,2250,0.25,,
+Cmp9,Hypercoil,,9,,Cmp9,2500,0.25,,
+Cmp10,Flux Capacitor,,10,,Cmp10,2750,0.25,,

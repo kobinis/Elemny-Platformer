@@ -1,0 +1,31 @@
+Common Columns:
+=============
+Id (text) – unique id name of the item in the code 
+
+Name* (text) – unique name of the item that will be displayed in (default value – Id value)
+
+Description (text) – description of the item that will  be displayed in the tooltip.
+
+Quality (possible values) – The quality of the item.
+	Possible Values:
+•	Common
+•	Uncommon
+•	Rare
+•	Epic
+•	Legendary
+
+Size (number) – Size of the item (a Slot on ship can contain items with cretain size. For example: big item can't equipped on small slot, but small item can be equipped on big slot) (default size– 1 - small size)
+
+Texture (text) – the picture file name of the item.
+
+Equipped Texture(text) - The picture file name of how the item will look when it equipped on the ship.
+
+Price (number) – Price of the item
+
+Sell ratio (number) – price * sell ratio = sell price.
+
+Color* (text or RGB) - color of the item. (default color – white – show the Texture without color)
+For the same picture file, we can create different items with different look by changing the picture color using this column.
+Example: Red (color name)
+Example: 255:255:100 (RGB)
+Example: 255:255:100:50 (RGB and opacity)

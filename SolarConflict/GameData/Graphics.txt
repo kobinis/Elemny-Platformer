@@ -1,0 +1,8 @@
+ResWidth,1920
+ResHeight,1080
+IsFullscreen,f
+IsBorderless,t
+UseLighting,t
+IsPostprocessing,t
+IsVerticalSync,f
+IsHardwareModeSwitch,t

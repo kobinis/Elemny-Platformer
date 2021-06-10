@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "AttackDronesBay"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "up",
+      "LocationID": 5,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 6,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Shield8"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator5"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "BoomerangAmmoItem",
+      "Amount": 12
+    }
+  ],
+  "ID": "SmallShip14C",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip14",
+  "Count": 10
+}

@@ -1,0 +1,8 @@
+AddGameObject,StartingShip1,1,Player
+AddGameObject,SmallShip9Cloak,2
+AddGameObject,MediumShip3Cloak,2
+AddGameObject,SmallShip9Cloak,2
+AddObjectRandomly,BigAsteroid, 100, 5000
+Update
+SetPositionsInCircle,3000
+AddDialog,Eliminate both of your enemies!

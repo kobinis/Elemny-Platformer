@@ -1,0 +1,70 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 2,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 3,
+      "ItemId": "FlareItem"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "MissileLauncher3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "Generator4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Shield4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Shield4"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "ShieldGenerator1"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "Rocket0",
+      "Amount": 10
+    },
+    {
+      "ItemId": "Rocket1",
+      "Amount": 5
+    }
+  ],
+  "ID": "Shipyard - Guardian",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip8",
+  "Count": 10
+}

@@ -1,0 +1,78 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action3",
+      "LocationID": 0,
+      "ItemId": "SpaceBrake"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 1,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "MediumEngine9"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": "HealingBeam"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "HealingBeam"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "HealingBeam"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": "Shield9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "FlareItem"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    },
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    },
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    },
+    {
+      "ItemId": "DeployableTurretItem",
+      "Amount": 10
+    }
+  ],
+  "ID": "Empire - T5 - Medium Support",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip16",
+  "Count": 10
+}

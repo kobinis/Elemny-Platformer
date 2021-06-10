@@ -1,0 +1,14 @@
+Entries should have the form "weight probability mainExpression minAmount amountRange",
+where weight is a float preceded by the letter w, probability is a float, minAmount and amountRange are ints,
+and everything except mainExpression (see below) is optional. Weights should only occur if the input is part of a weighted choice expression (see below)
+
+mainExpression can be:
+    * an emitter id
+    * another comma-separated list of entries, enclosed in square brackets
+    * a weighted choice of entries, enclosed in round brackets
+    
+Examples:
+    shield1 - just returns the shield1 emitter
+    shield1, 0.5 shield2 - emits shield1, also has an 50% chance of emitting shield2
+    shield1, 0.5 [shield2 2 1, shield3] - emits shield1, has a 50% chance of also emitting 2-3 instances of shield2 and one of shield3
+    shield1, 0.5 (w4 shield2 2, shield3) - emits shie{\rtf1}

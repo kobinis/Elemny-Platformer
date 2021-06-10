@@ -1,0 +1,28 @@
+Engine template instructions:
+===========================
+Description - Engines allow the ship to move in different directions and speeds, and even might leave a trail that do damage. 
+
+
+Columns:
+=======
+
+Active Time* - Number of frames that the engine will be active after the player activate it. (Do one click on W will let the engine run for a whole second?) (default -1 frame)
+
+Acceleration (number) – engine acceleration 
+
+Max Speed (number) – max speed the engine can get
+
+Engine Trail Emitter ID (text) – The name of the trial the engine will emit (for example, some trials do damage)
+TODO: write names of trials
+
+Cooldown* (number) - Cooldown of the engine (for example - some engines might have separated bursts and not continuous flow). (default -1 frame cooldown - continuous engine  flow)
+
+Trail Speed*(number) – The speed of the engine's trail (default -3) 
+
+Trail Color* (text or RGB) - The engine trail color (see example of color column) (default color – white – show the Texture without color)
+
+Meter Type* (possible values) - If the engine require power (like energy or shield), write the type of the meter that its will consume when used.
+•	Energy
+•	Shield
+
+Meter Cost* (number) -  The amount that we consume from the meter type when we activate the engine.

@@ -1,0 +1,9 @@
+Id,Text,Image*,Sound*,NextText*,IsBlocking*,IsSkippable*,Params*,Comments*
+victory,Victory!,,,,,,,
+defeat,Defeat!,,,,,,,
+,,,,,,,,
+QuickUse,Hotbar Slot,QuickUse,,,,,,
+,,,,,,,,
+GameDifficulty.Easy,"On death, you will keep your inventory.",,,,,,,
+GameDifficulty.Normal,"On death, your inventory (not equipment) will be dropped where you died.\nA quest marker will be placed where you died.",,,,,,,
+GameplaySettings.SkipTutorial,"After the prologue, skips all story mission and rewards in the first system.\nThe main story with quests will resume in future systems.",,,,,,,

@@ -1,0 +1,66 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "MiningLaser1"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 2,
+      "ItemId": "Blaster0"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 3,
+      "ItemId": "SmallEngine0"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "SmallRotationEngine0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "EchoSprintItem",
+      "Amount": 1
+    }
+  ],
+  "ID": "GustavFleet2",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip12",
+  "Count": 10
+}

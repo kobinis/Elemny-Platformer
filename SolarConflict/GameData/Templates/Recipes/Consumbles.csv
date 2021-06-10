@@ -1,0 +1,9 @@
+Id,Crafting Station*,Amount Produced,Cost1,Cost2
+RepairKit1,Mothership,1,MatA1,MatC1:1
+RepairKit3,CraftingStation,1,MatB3,MatB1
+RepairKit6,AdvancedCraftingStation,1,MatA6,MatB1
+HomeBeaconKit,Basic,2,MatB1:5,
+AoeRepairKit1,CraftingStation,1,MatA2,MatC2:1
+EnergyKit1,CraftingStation,1,MatB1,MatC1:1
+EmpRecoveryKit1,AdvancedCraftingStation,1,MatA5,MatC4:1
+DecoyItem,Armory,1,Cmp1:2,

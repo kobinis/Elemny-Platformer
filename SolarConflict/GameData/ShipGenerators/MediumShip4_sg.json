@@ -1,0 +1,430 @@
+{
+  "Name": null,
+  "AIKey": 0,
+  "SlotEntries": [
+    {
+      "ControlSignal": "up",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallEngine0"
+        ],
+        "1": [
+          "SmallEngine1"
+        ],
+        "2": [
+          "SmallEngine2"
+        ],
+        "3": [
+          "SmallEngine3",
+        ],
+        "4": [
+          "SmallEngine4"
+        ],
+        "5": [
+          "SmallEngine5"
+        ],
+        "6": [
+          "MediumEngine6"
+        ],
+        "7": [
+          "MediumEngine7"
+        ],
+        "8": [
+          "MediumEngine8"
+        ],
+        "9": [
+          "MediumEngine9"
+        ]
+      },
+      "Index": 0,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "down",
+      "ItemsPerLevel": null,
+      "Index": 1,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "right",
+      "ItemsPerLevel": null,
+      "Index": 2,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "left",
+      "ItemsPerLevel": null,
+      "Index": 3,
+      "ReferenceIndex": 0
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun"
+        ],
+		"1": [
+          "SlowHeavyGun"
+        ],
+        "2": [
+          "ChainGun4"
+        ],
+        "3": [
+          "ChainGun4"
+        ],
+        "4": [
+          "ChainGun5"
+        ],
+        "5": [
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun"
+        ],
+		"7": [
+          "FlakGun"
+        ],
+        "8": [
+          "FlakGun"
+        ],
+        "9": [
+          "FlakGun"
+        ]
+      },
+      "Index": 4,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun"
+        ],
+		"1": [
+          "SlowHeavyGun"
+        ],
+        "2": [
+          "ChainGun4"
+        ],
+        "3": [
+          "ChainGun4"
+        ],
+        "4": [
+          "ChainGun5"
+        ],
+        "5": [
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun"
+        ],
+		"7": [
+          "FlakGun"
+        ],
+        "8": [
+          "FlakGun"
+        ],
+        "9": [
+          "FlakGun"
+        ]
+      },
+      "Index": 5,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun"
+        ],
+		"1": [
+          "SlowHeavyGun"
+        ],
+        "2": [
+          "ChainGun4"
+        ],
+        "3": [
+          "ChainGun4"
+        ],
+        "4": [
+          "ChainGun5"
+        ],
+        "5": [
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun"
+        ],
+		"7": [
+          "FlakGun"
+        ],
+        "8": [
+          "FlakGun"
+        ],
+        "9": [
+          "FlakGun"
+        ]
+      },
+      "Index": 6,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action1",
+      "ItemsPerLevel": {
+        "0": [
+          "SlowHeavyGun"
+        ],
+		"1": [
+          "SlowHeavyGun"
+        ],
+        "2": [
+          "ChainGun4"
+        ],
+        "3": [
+          "ChainGun4"
+        ],
+        "4": [
+          "ChainGun5"
+        ],
+        "5": [
+          "ChainGun5"
+        ],
+        "6": [
+          "FlakGun"
+        ],
+		"7": [
+          "FlakGun"
+        ],
+        "8": [
+          "FlakGun"
+        ],
+        "9": [
+          "FlakGun"
+        ]
+      },
+      "Index": 7,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action3",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+		"1": [
+          null
+        ],
+        "2": [
+          "EchoSprintItem"
+        ],
+        "3": [
+          "EchoSprintItem"
+        ],
+        "4": [
+          "EchoSprintItem"
+        ],
+        "5": [
+          "EchoSprintItem"
+        ],
+        "6": [
+          "EchoSprintItem"
+        ],
+		"7": [
+          "EchoSprintItem"
+        ],
+        "8": [
+          "EchoSprintItem"
+        ],
+        "9": [
+          "EchoSprintItem"
+        ]
+      },
+      "Index": 8,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "action4",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+		"1": [
+          null
+        ],
+        "2": [
+          "ActiveEnergyBooster0"
+        ],
+        "3": [
+          "ActiveEnergyBooster0"
+        ],
+        "4": [
+          "ActiveEnergyBooster0"
+        ],
+        "5": [
+          "ActiveEnergyBooster1"
+        ],
+        "6": [
+          "ActiveEnergyBooster1"
+        ],
+		"7": [
+          "ActiveEnergyBooster1"
+        ],
+        "8": [
+          "ActiveEnergyBooster2"
+        ],
+        "9": [
+          "ActiveEnergyBooster2"
+        ]
+      },
+      "Index": 9,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Generator0",
+        ],
+        "2": [
+          "MediumRapidGenerator"
+        ],
+        "3": [
+          "MediumRapidGenerator"
+        ],
+        "4": [
+          "MediumRapidGenerator"
+        ],
+        "5": [
+          "MediumRapidGenerator"
+        ],
+        "6": [
+          "MediumRapidGenerator"
+        ],
+        "7": [
+          "MediumRapidGenerator"
+        ],
+        "8": [
+          "MediumRapidGenerator"
+        ],
+        "9": [
+          "MediumRapidGenerator"
+        ]
+      },
+      "Index": 10,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "Cloack1"
+        ],
+		"1": [
+          "Cloack1"
+        ],
+        "2": [
+          "Cloack1"
+        ],
+        "3": [
+          "Cloack1"
+        ],
+        "4": [
+          "Cloack1"
+        ],
+        "5": [
+          "Cloack1"
+        ],
+        "6": [
+          "Cloack1"
+        ],
+		"7": [
+          "Cloack1"
+        ],
+        "8": [
+          "Cloack1"
+        ],
+        "9": [
+          "Cloack1"
+        ]
+      },
+      "Index": 11,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          "SmallRotationEngine0"
+        ],
+        "1": [
+          "SmallRotationEngine1"
+        ],
+		"2": [
+          "SmallRotationEngine2"
+        ],
+        "3": [
+          "SmallRotationEngine3"
+        ],
+        "4": [
+          "MediumRotationEngine1"
+        ],
+		"5": [
+          "MediumRotationEngine1"
+        ],
+		"6": [
+          "MediumRotationEngine2"
+        ],
+		"7": [
+          "MediumRotationEngine2"
+        ],
+		"8": [
+          "MediumRotationEngine3"
+        ],
+		"9": [
+          "MediumRotationEngine3"
+        ]
+      },
+      "Index": 12,
+      "ReferenceIndex": -1
+    },
+    {
+      "ControlSignal": "none",
+      "ItemsPerLevel": {
+        "0": [
+          null
+        ],
+		"1": [
+          null
+        ],
+        "2": [
+          null
+        ],
+        "3": [
+          null
+        ],
+        "4": [
+          null
+        ],
+        "5": [
+          null
+        ],
+        "6": [
+          "StunImmunity"
+        ],
+		"7": [
+          "StunImmunity"
+        ],
+        "8": [
+          "StunImmunity"
+        ],
+        "9": [
+          "StunImmunity"
+        ]
+      },
+      "Index": 13,
+      "ReferenceIndex": -1
+    }
+  ],
+  "ID": "MediumShip4_sg",
+  "AgentID": "MediumShip4"
+}

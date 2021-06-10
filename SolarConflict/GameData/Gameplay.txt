@@ -1,0 +1,5 @@
+AutoSortInventory,t
+IsFilter,t
+AutoSave,t
+SkipTutorial,t
+DirectionalControl,t

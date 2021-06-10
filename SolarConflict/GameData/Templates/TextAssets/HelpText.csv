@@ -1,0 +1,3 @@
+Id,Text,Image*,Sound*,NextText*,IsBlocking*,IsSkippable*,Params*,Comments*
+RotatingInfo,"#color{255,255,0}#image{relIcon}Relative Control#dcolor{}\n#line{}The ship and turrets will rotate to the direction of the cursor,\nMovement is relative to the ship's rotation\nYou can lock the rotation of the ship by holding #action{lock}",,,,,,,
+NonRotatingInfo,"#color{255,255,0}#image{absIcon}Absolute Control#dcolor{}\n#line{}The ship's turrets will rotate to the direction of the cursor.\nMovement is relative to screen ",,,,,,,

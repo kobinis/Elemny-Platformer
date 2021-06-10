@@ -1,0 +1,25 @@
+Id,Text,Image*,Sound*,NextText*,IsBlocking*,IsSkippable*,Params*,Comments*
+p_intro1,System booting...,ShipComp,beep,p_intro2,,,,Triggered at the beginning of the tutorial. Ship spins out of control (is it possible? Perhaps create a unique broken rotation engine item)
+p_intro2,"Come in, do you copy?\nDo you copy?",AI_Helper,static_radio,p_intro3,,,,
+p_intro3,"Thought I lost you there for a a few minutes.\nI'm picking up EMP blastwave traces, someone is dead serious about stopping you if they used it.",AI_Helper,,,,,,
+p_rotationStart1,"Wow, your Gyro readings are off the charts!\nYou'll have to replace it or you'll be spinning into oblivion.",AI_Helper,,p_rotationStart2,,,,
+p_rotationStart2,TUTORIAL: Press #action{Inventory} to open up your ship screen and remove the rotation engine from the ship,Question_mark,highlight,,,FALSE,,
+,,,,,,,,
+p_gotoPointStart1,Got your bearing? Great!\nWe have a payload to deliver and there's no time to wait:\nI highlighted the designated waypoint for you.,AI_Helper,static_radio,p_gotoPointStart2,,,,Triggers after a fixed rotation engine is used
+p_gotoPointStart2,"Proceed carefully, and expect some United Colonies resistance there.",AI_Helper,,,,,,
+,,,,,,,,
+p_destroyShipStart1,"TUTORIAL: Space combat is a vicious affair. Use #action{Action1} and #action{Action2} to attack enemy space ships.\nEvade incoming attacks and watch your shield, hull and energy levels.",Question_mark,highlight,p_destroyShipStart2,,,,Triggers when in reaching waypoint
+p_destroyShipStart2,"TUTORIAL: Your shield regenerates quickly, but your hull does not. Don't let it break down.\nYour energy levels also regenerate but using your weapons will drain them.",Question_mark,,,,,,
+p_destroyShipEnd1,"Nicely done, although I'm picking up additional United Colonies forces in proximity. Someone really doesn't want this payload delivered.",AI_Helper,static_radio,,,,,Triggers after destroying first spaceship
+,,,,,,,,
+p_destroyStationStart1,"It seems like the EMP was fired from an experimental platform in this sector.\nDestroy it and hopefully the EMP will interfere with linked spacecraft, leaving them vulnurable.",AI_Helper,,p_destroyStationStart2,,,,
+p_destroyStationStart2,TUTORIAL: Prioritizing strategic targets is important.\nDestroy the experminetal United Colonies weapon platform at the marked location to render enemy forces immobile,Question_mark,highlight,,,,,
+p_destroyStationEnd1,"Well done! They won't bother us anymore.\nIt's back to deliver routine now, so please equip the Terraformer and aim at the sun so we can be done with it.",AI_Helper,static_radio,,,,,Triggers after destroying EMP platform
+,,,,,,,,
+p_equipDeviceStart1,"TUTORIAL: Press #action{Inventory} to open up your ship screen, and equip the [Terraformer] item from your inventory",Question_mark,highlight,,FALSE,FALSE,,
+,,,,,,,,
+p_destroySunStart1,"TUTORIAL: Get in proximity of the Sun (BUT NOT TOO CLOSE!), and Use #action{Action2} to launch the Terraformer at the sun.\n It's not a tiny thermal exhaust port, but make sure you aim.",Question_mark,highlight,,FALSE,FALSE,,Triggers after equipping terraformer
+,,,,,,,,
+p_wrong1,You have a delivery to drop. Please get to the designated waypoint,AI_Helper,,,,,,triggered if not getting to waypoint
+p__wrong2,"Are you alright? I hope that EMP didn't fry your brain, but you're going the wrong way. We have a delivery to make, and they'll be pissed if we miss it",AI_Helper,,,,,,triggered if not getting to waypoint and fncomm_wrong1 already triggered 
+p_platform,"Nice job, but focus your efforts on the weapon platform",AI_Helper,,,,,,triggers when destroying an enemy ship but weapons platform is still online (give 1 second delay before checking)

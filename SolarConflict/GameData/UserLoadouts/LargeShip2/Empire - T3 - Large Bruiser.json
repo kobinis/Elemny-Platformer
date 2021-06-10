@@ -1,0 +1,85 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "MediumEngine7"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": "GravitonGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 7,
+      "ItemId": "MaterialConsumingRepairSystem"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator7"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "StunImmunity"
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "Missile1",
+      "Amount": 85
+    },
+    {
+      "ItemId": "Missile4",
+      "Amount": 80
+    }
+  ],
+  "ID": "Empire - T3 - Large Bruiser",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "LargeShip2",
+  "Count": 13
+}

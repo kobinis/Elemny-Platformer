@@ -1,0 +1,56 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "ChainGun1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": "Generator0"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 8,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "DeployableTurret1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "DeployableTurret",
+  "Count": 9
+}

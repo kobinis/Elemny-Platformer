@@ -1,0 +1,111 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 1,
+      "ItemId": "GuidedPlasmaGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 2,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 3,
+      "ItemId": "SlowHeavyGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 8,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 9,
+      "ItemId": "DevastationCoreDetonator"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 10,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 11,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 12,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 13,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 14,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 15,
+      "ItemId": "Generator5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 16,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 17,
+      "ItemId": "SmallRotationEngine2"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 18,
+      "ItemId": "AsteroidGrinderItem"
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 19,
+      "ItemId": "DevastationCoreFabItem"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "MinerBoss",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "LargeShip1",
+  "Count": 20
+}

@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 4,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Blaster7"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "PrologShield"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 11,
+      "ItemId": "PhotonBarrageUtil"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 12,
+      "ItemId": "AttackDronesBay"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "House1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip11",
+  "Count": 13
+}

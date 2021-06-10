@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "ChainGun4"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "FireTrailSprint"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "MineLauncher"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "MineLauncher"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "ChainGun3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "ChainGun5"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 9,
+      "ItemId": "HarpoonGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "MediumRotationEngine3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "MineAmmo1",
+      "Amount": 30
+    }
+  ],
+  "ID": "PirateShip3",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip14",
+  "Count": 15
+}

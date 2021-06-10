@@ -1,0 +1,81 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "action1",
+      "LocationID": 0,
+      "ItemId": "PhotonTorpedoLauncher1"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 2,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 4,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Generator2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 12,
+      "ItemId": "EchoSprintItem"
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 13,
+      "ItemId": "DeployableTurretItem"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "VoidShip2A",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "void_fiendHull",
+  "Count": 14
+}

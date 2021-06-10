@@ -1,0 +1,6 @@
+AddGameObject,Mandate-crippled,2
+AddGameObject,Quixote-buffed,1,Player
+AddObjectRandomly,BigAsteroid, 100, 5000
+Update
+SetPositionsInCircle,2000
+AddDialog,Joust outside your weight class.

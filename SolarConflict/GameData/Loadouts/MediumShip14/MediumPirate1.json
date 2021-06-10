@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "left",
+      "LocationID": 0,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 1,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "SmallEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 4,
+      "ItemId": null
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "BoomerangGun"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "FlakGun"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 8,
+      "ItemId": "MiningLaser1"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "MiningLaser1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Generator1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Shield1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [
+    {
+      "ItemId": "BoomerangAmmoItem",
+      "Amount": 999
+    }
+  ],
+  "ID": "MediumPirate1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip14",
+  "Count": 15
+}

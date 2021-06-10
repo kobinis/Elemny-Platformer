@@ -1,0 +1,91 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "MediumEngine7"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "MediumEngine7"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 2,
+      "ItemId": "MediumEngine7"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 3,
+      "ItemId": "MediumEngine7"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "MediumEngine7"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 5,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 6,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 8,
+      "ItemId": "Shotgun3"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 9,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 10,
+      "ItemId": "Flamethrower"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 12,
+      "ItemId": "Generator6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 13,
+      "ItemId": "Shield6"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 14,
+      "ItemId": "MediumRotationEngine1"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 15,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Empire - T3 - Medium DPS",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "MediumShip3",
+  "Count": 16
+}

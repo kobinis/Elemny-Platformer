@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "SmallEngine5"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "Blaster9"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Blaster9"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "EnergyBolaGun"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Generator9"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield5"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "SmallRotationEngine3"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 12,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Pirates - Small Disabler",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip4",
+  "Count": 13
+}

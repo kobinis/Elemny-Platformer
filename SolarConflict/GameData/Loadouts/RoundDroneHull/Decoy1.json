@@ -1,0 +1,61 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": null
+    },
+    {
+      "Activation": "down",
+      "LocationID": 1,
+      "ItemId": null
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": null
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": null
+    },
+    {
+      "Activation": "alwaysOn",
+      "LocationID": 4,
+      "ItemId": "TauntItem"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 5,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 6,
+      "ItemId": null
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 7,
+      "ItemId": null
+    },
+    {
+      "Activation": "action4",
+      "LocationID": 8,
+      "ItemId": null
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": null
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Decoy1",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "RoundDroneHull",
+  "Count": 10
+}

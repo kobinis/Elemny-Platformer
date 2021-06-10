@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MenuData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <title></title>
+  <MenuEntryList>
+    <MenuEntry>
+      <DisplayText>Ship Loadout Editor</DisplayText>
+      <ActivityName>AgentSelectActivity</ActivityName>
+      <ActivityParams>LoadoutEditorScene,UserLoadouts</ActivityParams>
+    </MenuEntry>
+
+
+    <MenuEntry>
+      <DisplayText>Check loadouts in battle</DisplayText>
+      <ActivityName>Skirmish</ActivityName>
+      <ActivityParams>#user#</ActivityParams>
+    </MenuEntry>
+			
+    <MenuEntry>
+      <DisplayText>Back</DisplayText>
+      <ActivityName>back</ActivityName>
+      <ActivityParams></ActivityParams>
+    </MenuEntry>
+
+  </MenuEntryList>
+</MenuData>

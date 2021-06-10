@@ -1,0 +1,76 @@
+{
+  "AiKey": 0,
+  "LoadoutEntryList": [
+    {
+      "Activation": "up",
+      "LocationID": 0,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "up",
+      "LocationID": 1,
+      "ItemId": "SmallEngine4"
+    },
+    {
+      "Activation": "right",
+      "LocationID": 2,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "left",
+      "LocationID": 3,
+      "ItemId": "SmallEngine3"
+    },
+    {
+      "Activation": "down",
+      "LocationID": 4,
+      "ItemId": "SmallEngine2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 5,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "action2",
+      "LocationID": 6,
+      "ItemId": "Shotgun2"
+    },
+    {
+      "Activation": "action1",
+      "LocationID": 7,
+      "ItemId": "Blaster3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 8,
+      "ItemId": "Generator3"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 9,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 10,
+      "ItemId": "Shield2"
+    },
+    {
+      "Activation": "none",
+      "LocationID": 11,
+      "ItemId": "SmallRotationEngine2"
+    },
+    {
+      "Activation": "action3",
+      "LocationID": 12,
+      "ItemId": "GooBlastUtil"
+    }
+  ],
+  "_inventoryItems": [],
+  "ID": "Guild3",
+  "Name": null,
+  "LoadoutDescription": null,
+  "AgentID": "SmallShip4",
+  "Count": 13
+}
