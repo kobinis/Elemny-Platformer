@@ -23,9 +23,9 @@ namespace SolarConflict
         public static void Initialize(ContentManager content, GraphicsDevice device)
         {
             systems = new Dictionary<string, ParticleSystem>();
-            AddParticleSystem(new SmokePS(content, device), 11000, 10);
-            AddParticleSystem(new FirePS(content, device), 11000, 10);
-            AddParticleSystem(new GreenSmokePS(content, device), 12000, 10);
+            //AddParticleSystem(new SmokePS(content, device), 11000, 10);
+            //AddParticleSystem(new FirePS(content, device), 11000, 10);
+            //AddParticleSystem(new GreenSmokePS(content, device), 12000, 10);
 
         }
 

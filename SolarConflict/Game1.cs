@@ -151,15 +151,15 @@ namespace SolarConflict
             menuFont.DefaultCharacter = '*';
 
             TextureBank.Inst.AddTexture("cursor", Content.Load<Texture2D>("Images/Cursor32"));
-            cover1 = Content.Load<Texture2D>("Images/Cover");
-            cover2 = Content.Load<Texture2D>("Images/PromoB");
-            TextureBank.Inst.AddTexture("cover", cover1);
-            TextureBank.Inst.AddTexture("cover2", cover2);
-            TextureBank.Inst.AddTexture("coverA", Content.Load<Texture2D>("Images/Cover3"));
-            TextureBank.Inst.AddTexture("coverA1", Content.Load<Texture2D>("Images/Cover4"));
+            //cover1 = Content.Load<Texture2D>("Images/Cover");
+            //cover2 = Content.Load<Texture2D>("Images/PromoB");
+            //TextureBank.Inst.AddTexture("cover", cover1);
+            //TextureBank.Inst.AddTexture("cover2", cover2);
+            //TextureBank.Inst.AddTexture("coverA", Content.Load<Texture2D>("Images/Cover3"));
+            //TextureBank.Inst.AddTexture("coverA1", Content.Load<Texture2D>("Images/Cover4"));
             TextureBank.Inst.AddTexture("missing", Content.Load<Texture2D>("Images/missing"));
             //   cover1 = TextureBank.Inst.GetTexture("coverA");
-            TextureBank.Inst.AddTexture("guiframe", Content.Load<Texture2D>("Images/grey_panel"));
+           // TextureBank.Inst.AddTexture("guiframe", Content.Load<Texture2D>("Images/grey_panel"));
 
             TextureBank.Inst.AddSprite(new Sprite9Sliced("guiframe", 10, 10, 10, 10));
             GuiManager.BackTexture = Sprite.Get("guiframe");
