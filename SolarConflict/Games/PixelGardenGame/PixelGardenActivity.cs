@@ -25,6 +25,17 @@ namespace SolarConflict.GameContent.Activities.Games
             player = new PlayerAgent();
             player.Position = new Vector2(200, 10);
             gardenEngine.gameEngine.AddGameObject(player);
+            gardenEngine.gameEngine.player = player;
+
+
+            
+            for (int i = 0; i < 4; i++)
+            {
+                var enemy = new SlimeEnemy();
+                enemy.Position = player.Position = new Vector2(250, 10);
+                gardenEngine.gameEngine.AddGameObject(enemy);
+
+            }
         }
 
         public override void Update(InputState inputState)

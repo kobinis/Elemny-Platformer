@@ -77,7 +77,7 @@ namespace SolarConflict.Games.PixelGardenGame
                             pixel.type = PixelType.WoodWall;
                             pixel.value = 100;
                             pixel.param1 = 100;
-                            pixel.color = Color.Aqua;
+                            pixel.color = GPixel.profiles[(int)PixelType.WoodWall].GetColor(x, y) ;
                             SetPixelLim(x, y, pixel);
                         }
                         else
@@ -113,7 +113,7 @@ namespace SolarConflict.Games.PixelGardenGame
             // sizeX = graphicsDevice.Viewport.Width / 2; ;
             // sizeY = graphicsDevice.Viewport .Height/2;
             //RealObjectEngine.Init();
-            this.background = MyGraphics.GetTexture("back6");
+            this.background = MyGraphics.GetTexture("pgbg");
             var profiles = GardenLogic.MakeProfiles();
             logic = new GardenLogic(profiles);
             
@@ -125,8 +125,8 @@ namespace SolarConflict.Games.PixelGardenGame
             toolsList[3] = PixelType.Plant;
             toolsList[4] = PixelType.Water;
             toolsList[5] = PixelType.Tnt;
-            toolsList[6] = PixelType.Snow;
-            toolsList[7] = PixelType.Object;                              
+            toolsList[6] = PixelType.Oill;
+            toolsList[7] = PixelType.MusicFireworks;                              
 
             tool = 1;
 
@@ -165,19 +165,19 @@ namespace SolarConflict.Games.PixelGardenGame
 
             timeflow = new ToggleControl(new Vector2(-1.7f * 53, -70), 21, 21, design, new Norma(ShapeBank.CircleNorma));
             timeflow.AddIcon(MyGraphics.GetTexture("timeflow"));
-            gui.controls.Add(timeflow);
+         //   gui.controls.Add(timeflow);
 
             colorRotation = new ToggleControl(new Vector2(-1.8f * 53, -20), 25, 25, design, new Norma(ShapeBank.CircleNorma));
             colorRotation.AddIcon(MyGraphics.GetTexture("colRot"));
-            gui.controls.Add(colorRotation);
+          //  gui.controls.Add(colorRotation);
 
             clearControl = new ClickedControl(new Vector2(1.7f * 53, -70), 21, 21, design, new Norma(ShapeBank.RoundedRectNorma)); //clear
             clearControl.AddIcon(MyGraphics.GetTexture("newpage"));
-            gui.controls.Add(clearControl);
+         //   gui.controls.Add(clearControl);
 
             saveBut = new ClickedControl(new Vector2(1.8f * 53, -20), 25, 25, design, new Norma(ShapeBank.RoundedRectNorma)); //clear
             saveBut.AddIcon(MyGraphics.GetTexture("save"));
-            gui.controls.Add(saveBut);
+        //    gui.controls.Add(saveBut);
 
             gui.Position = new Vector2(200, 200);
 
@@ -255,10 +255,11 @@ namespace SolarConflict.Games.PixelGardenGame
             
             foreach (var touch in inputList)
             {
-
+                int lx = mcga.GetMcgaX((int)touch.PreviousPosition.X) + offsetX;
+                int ly = mcga.GetMcgaY((int)touch.PreviousPosition.Y) + offsetY;
                 int px = mcga.GetMcgaX((int)touch.Position.X) + offsetX;
                 int py = mcga.GetMcgaY((int)touch.Position.Y) + offsetY;                
-                GPixel.profiles[tool].Init( px,  py, px ,  py , currentColor, logic.grid);                                
+                GPixel.profiles[tool].Init( lx,  ly, px ,  py , currentColor, logic.grid);                                
             }
 
 
@@ -365,14 +366,14 @@ namespace SolarConflict.Games.PixelGardenGame
         public void Update(InputState inputState)
         {
 
-            if (inputState.IsKeyDown(Keys.D))
-                offsetX++;
-            if (inputState.IsKeyDown(Keys.A))
-                offsetX--;
-            if (inputState.IsKeyDown(Keys.S))
-                offsetY++;
-            if (inputState.IsKeyDown(Keys.W))
-                offsetY--;
+            //if (inputState.IsKeyDown(Keys.D))
+            //    offsetX++;
+            //if (inputState.IsKeyDown(Keys.A))
+            //    offsetX--;
+            //if (inputState.IsKeyDown(Keys.S))
+            //    offsetY++;
+            //if (inputState.IsKeyDown(Keys.W))
+            //    offsetY--;
 
 
 

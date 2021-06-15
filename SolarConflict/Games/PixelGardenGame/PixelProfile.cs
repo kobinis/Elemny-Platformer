@@ -18,6 +18,11 @@ namespace PaintPlay
 
         }
 
+        public virtual Color GetColor(int x, int y)
+        {
+            return Color.Yellow;
+        }
+
         public virtual void Init(int lastX, int lastY, int x, int y, Color color, GPixel[,] grid)
         {
         }
@@ -36,7 +41,7 @@ namespace PaintPlay
 
         public virtual void Explode(int burnValue, ref GPixel sourcePixel, ref GPixel data)
         {
-            data.type = PixelType.ColoredFire;
+            data.type = PixelType.Fire;
             data.value = burnValue >> 1;
             data.color = sourcePixel.color; //?
         }

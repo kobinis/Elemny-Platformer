@@ -18,6 +18,11 @@ namespace PaintPlay
             tile.SetData( tileTexture);            
         }
 
+        public override Color GetColor(int x, int y)
+        {
+            return tile.Getpixel(x % tile.Width, y % tile.Height);
+        }
+
         public override void Init(int lastX, int lastY, int x, int y, Color color, GPixel[,] grid)
         {
             GPixel pixel = new GPixel();
@@ -36,7 +41,7 @@ namespace PaintPlay
                     col = color;
                     Vector3  colVec = col.ToVector3()*colRand;
                     col = new Color(colVec);
-                    //pixel.color = col;
+                    pixel.color = col;
                     GardenHelper.Line(lastX + xx, lastY + yy, x + xx, y + yy, pixel, grid);
                 }
 

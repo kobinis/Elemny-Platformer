@@ -67,6 +67,7 @@ namespace SolarConflict
     [Serializable]
     public class GameEngine
     {
+        public GameObject player;
         public const int MaxFxNumber = 4000; //Read from settings
         /// <remarks>Only affects lighting. Color channels saturate at 1f.</remarks>
         public Vector3 AmbientColor = Vector3.One * 0.5f;  //

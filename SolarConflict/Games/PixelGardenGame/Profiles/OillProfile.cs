@@ -151,11 +151,13 @@ namespace PaintPlay
             }
         }
 
+      
+
         public override void Draw(int x, int y, GPixel pixel, MCGA mcga)
         {
             //mcga.Putpixel(x, y, grid[x, y].color);
             byte col = (byte)(pixel.value);
-            mcga.Putpixel(x, y, new Color(pixel.value*3, pixel.value/2, 200, 20));
+            mcga.Putpixel(x, y, new Color(pixel.value*3, pixel.value/2, 200, 200));
         }
 
 

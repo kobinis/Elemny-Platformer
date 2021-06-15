@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using PaintPlay;
 using SolarConflict.Games.PixelGardenGame;
@@ -12,7 +13,7 @@ using XnaUtils.Graphics;
 
 namespace SolarConflict.GameContent.Activities.Games
 {
-    public class PlayerAgent:GameObject
+    public class SlimeEnemy : GameObject
     {
         //public Vector2 Position;
         //public Vector2 Velocity;
@@ -23,7 +24,7 @@ namespace SolarConflict.GameContent.Activities.Games
         public int SizeY = 10;
 
         public bool isOnGround;
-        
+
         int cooldown = 0;
         int weaponMode = 1;
 
@@ -34,126 +35,67 @@ namespace SolarConflict.GameContent.Activities.Games
 
         public override CollisionSpec CollisionInfo { get; set; }
 
-        public PlayerAgent()
+        public SlimeEnemy()
         {
-         
-            CollisionInfo = new CollisionSpec(0, 1);
+
+            CollisionInfo = new CollisionSpec(2, 1);
             Mass = 1;
-            texture = new Spritesheet("characters_packed", 24, 24, 18);            
+            texture = new Spritesheet("characters_packed", 24, 24, 18);
+            Size = 5;
         }
 
 
 
-        public void Update()
+        public override void Update(GameEngine gameEngine)
         {
             PixelGardenEngine grid = PixelGardenEngine.Inst;
-            
-            InputState inputState = ActivityManager.Inst.InputState;
+
+
             int maxSpeed = 2;
             float acc = 0.25f;
-            var controllerState = inputState.CurrentGamePadStates[0];
-            if (inputState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.D) || controllerState.ThumbSticks.Left.X > 0.1f)
+            var player = gameEngine.player;
+
+            float diff = (player.Position.X - Position.X)/200f;
+            
+
+
+            if (FMath.Bern(diff, FMath.Rand))
             {
                 Velocity += Vector2.UnitX * acc;
                 if (Velocity.X > maxSpeed)
                     Velocity.X = maxSpeed;
             }
 
-            if (inputState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.A) || controllerState.ThumbSticks.Left.X < -0.1f)
+            if (FMath.Bern(-diff, FMath.Rand))
             {
                 Velocity -= Vector2.UnitX * acc;
                 if (Velocity.X < -maxSpeed)
                     Velocity.X = -maxSpeed;
             }
 
-            if ((inputState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.W) || controllerState.IsButtonDown(Microsoft.Xna.Framework.Input.Buttons.A)) && isOnGround)
+            if (isOnGround)
             {
-                Velocity = -Vector2.UnitY * 7;
-
+                Velocity = -Vector2.UnitY * FMath.Rand.Next(5, 8);
             }
 
-            if (inputState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.S))
-            {
-                Velocity += Vector2.UnitY;
-            }
-
-            if (inputState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.D1))
-            {
-                weaponMode = 0;
-            }
-
-            if (inputState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.D2))
-            {
-                weaponMode = 1;
-            }
-
-            var mineVec = inputState.CurrentGamePadStates[0].ThumbSticks.Right;
-            mineVec.Y = -mineVec.Y;
-            if (mineVec.LengthSquared() > 0.5f && weaponMode == 0)
-            {
-                var minePos = (Position + mineVec * 15).ToPoint();
-                int rad = 15;
-                for (int dx = -rad; dx <= rad; dx++)
-                {
-                    for (int dy = -rad; dy <= rad; dy++)
-                    {
-                        GPixel pixel = new GPixel();
-                        pixel.type = PixelType.Object;
-                        pixel.value = 2;
-                        if ((dx * dx + dy * dy <= rad * rad) && grid.GetPixelLim(minePos.X + dx, minePos.Y + dy - SizeY / 3).IsSolid())
-                            grid.SetPixelLim(minePos.X + dx, minePos.Y + dy - SizeY / 3, pixel);
-                    }
-
-                }
-            }
-            cooldown--;
-            if ((mineVec.LengthSquared() > 0.5f && weaponMode == 1) || inputState.CurrentGamePadStates[0].IsButtonDown(Microsoft.Xna.Framework.Input.Buttons.X))
-            {
-                if (mineVec.LengthSquared() <= 0.5f)
-                {
-                    mineVec = FMath.ToCartesian(1, -0.2f);
-                    mineVec.X *= Math.Sign(Velocity.X);
-                }
-                if (cooldown < 0)
-                {
-                    //var shoot = new Shoot();
-                    //shoot.velocity = mineVec * 8;
-                    //shoot.position = Position - Vector2.UnitY * 3 + mineVec * 30;
-                    //shoot.isActive = true;
-                    //shoots.Add(shoot);
-                    cooldown = 30;
-                }
-            }
+            
+            
+            
 
 
             ////  int cc = CheckCollision(grid);
-            GPixel dpixel = new GPixel();
-            dpixel.type = PixelType.Object;
-            dpixel.value = 3;
-            dpixel.color = Color.Red;
-            for (int dx = -2; dx < 2; dx++)
-            {
-                if(grid.GetPixelLim((int)Position.X + dx, (int)Position.Y - 3).IsEmpty())
-                    grid.SetPixelLim((int)Position.X + dx, (int)Position.Y-3, dpixel);
-            }
+            //GPixel dpixel = new GPixel();
+            //dpixel.type = PixelType.Object;
+            //dpixel.value = 3;
+            //dpixel.color = Color.Red;
+            //for (int dx = -2; dx < 2; dx++)
+            //{
+            //    if (grid.GetPixelLim((int)Position.X + dx, (int)Position.Y - 3).IsEmpty())
+            //        grid.SetPixelLim((int)Position.X + dx, (int)Position.Y - 3, dpixel);
+            //}
 
             MoveX(grid, null);
             MoveY(grid, null);
-
-
-            //Position += Velocity;
-
-            
-
-            
-         
-
-
-
-            //if(cc == 0)
-            //{
-            //    Velocity += Vector2.UnitY * 0.5f;
-            //}
             Velocity += Vector2.UnitY * 0.2f;
             Velocity *= 0.98f;
             Velocity.X = Velocity.X * 0.8f;
@@ -252,7 +194,7 @@ namespace SolarConflict.GameContent.Activities.Games
                 if (grid.GetPixelLim(x, y).IsSolid())
                     return true;
 
-                if (grid.GetPixelLim(x, y-5).IsSolid())
+                if (grid.GetPixelLim(x, y - 5).IsSolid())
                     return true;
                 //else
                 //{
@@ -285,7 +227,10 @@ namespace SolarConflict.GameContent.Activities.Games
             SpriteEffects effect = SpriteEffects.FlipHorizontally;
             if (Velocity.X < 0)
                 effect = SpriteEffects.None;
-            camera.CameraDraw(texture, ((int)Position.X / 4) % 2, Position, 0, 1, Color.White, effect);            
+            int frameIndex = 4;
+            if (Velocity.Y > 0.5f)
+                frameIndex = 5;
+            camera.CameraDraw(texture, frameIndex, Position, 0, 1, Color.White, effect);
         }
 
         public Point GetPoint()
@@ -305,23 +250,20 @@ namespace SolarConflict.GameContent.Activities.Games
 
         public override void ApplyCollision(GameObject collidingObject, GameEngine gameEngine)
         {
-            
+            Vector2 relPos = this.Position - collidingObject.Position;
+
+            Velocity += relPos * 0.5f;
         }
 
         public override void ApplyForce(Vector2 force, float speedLimit)
         {
-            
+
         }
 
         public override GameObjectType GetObjectType()
         {
             return GameObjectType.Ship;
-        }
-
-        public override void Update(GameEngine gameEngine)
-        {
-            Update();
-        }
+        }        
 
         public override GameObject GetAgentAncestor()
         {
@@ -335,7 +277,7 @@ namespace SolarConflict.GameContent.Activities.Games
 
         public override void SetMeterValue(MeterType type, float value)
         {
-            
+
         }
 
         public override GameObject GetTarget(GameEngine gameEngine, TargetType targetType)

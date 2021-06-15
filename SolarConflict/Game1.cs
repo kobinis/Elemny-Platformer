@@ -192,7 +192,7 @@ namespace SolarConflict
             ActivityManager.Inst.AddActivityProvider("SaveGame", SaveGameProvider);
             ActivityManager.Inst.AddActivityProvider("PopupMenu",Menu.PopupMenuActivityProvider);
 
-            if (DebugUtils.LoadWithThred)
+            if (DebugUtils.LoadWithThred && false)
             {
                 Thread initThread = new Thread(new ThreadStart(InitGame));
                 initThread.Start();

@@ -382,6 +382,7 @@
     <Compile Include="Games\PixelGardenGame\RealObjects\Objects\SnowCloud.cs" />
     <Compile Include="Games\PixelGardenGame\RealObjects\RealObject.cs" />
     <Compile Include="Games\PixelGardenGame\RealObjects\RealObjectEngine.cs" />
+    <Compile Include="Games\PixelGardenGame\SlimeEnemy.cs" />
     <Compile Include="Games\PixelGardenGame\XnaUtils\Camera.cs" />
     <Compile Include="Games\PixelGardenGame\XnaUtils\FileUtils.cs" />
     <Compile Include="Games\PixelGardenGame\XnaUtils\IFont.cs" />

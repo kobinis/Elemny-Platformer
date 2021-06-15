@@ -23,7 +23,7 @@ namespace SolarConflict
                 game.Run();
             Steam.Close();
 #else
-            SteamAPI.Init();
+            
             try
             {            
                
@@ -42,7 +42,7 @@ namespace SolarConflict
                     string filename = "Bug" + DateTime.Now.ToString("yyyy-M-dd--HH-mm-ss") + ".txt";
                     File.WriteAllText(filename, error);
                 }
-                SteamAPI.Shutdown();
+              
             }
 #endif
         }

@@ -72,7 +72,7 @@ namespace PaintPlay
                 }
                 else
                 {
-                    grid[x, y].type = PixelType.ColoredFire;
+                    grid[x, y].type = PixelType.Fire;
                     grid[x, y].value = 200; //??
                 }
             }            
