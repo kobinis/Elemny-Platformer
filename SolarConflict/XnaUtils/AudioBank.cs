@@ -46,6 +46,8 @@ namespace XnaUtils
 
         public SoundEffect GetSound(string id)
         {
+            return null;
+
             if (id == null)
                 return null;
             id = id.ToLower();

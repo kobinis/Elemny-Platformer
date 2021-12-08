@@ -235,7 +235,7 @@ namespace SolarConflict
 
             stopWatch.Reset();
             stopWatch.Start();
-            AudioBank.Inst.LoadContent(Content, "content\\Sound");
+            //AudioBank.Inst.LoadContent(Content, "content\\Sound");
             stopWatch.Stop();
             TimeSpan ts2 = stopWatch.Elapsed;
             elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",ts2.Hours, ts2.Minutes, ts2.Seconds, ts2.Milliseconds);
@@ -275,8 +275,8 @@ namespace SolarConflict
 
             errorType = "Sound emitters error!";
             AddSoundEmitters();
-            SoundEmitter se = (SoundEmitter)(ContentBank.Inst.GetEmitter("sound_shotgun"));
-            se.Volume = 0.3f;
+            //SoundEmitter se = (SoundEmitter)(ContentBank.Inst.GetEmitter("sound_shotgun"));
+            //se.Volume = 0.3f;
 
 
 

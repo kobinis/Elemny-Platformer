@@ -268,11 +268,12 @@ namespace XnaUtils
 
         private void SaveScreenshot()
         {
+            return;
             TakeScreenshot = false;
             int width = GraphicsSettingsUtils.GraphicsDevice.Viewport.Width;
             int height = GraphicsSettingsUtils.GraphicsDevice.Viewport.Height;
             Color[] buff = new Color[width * height];  //If Hidef
-            GraphicsSettingsUtils.GraphicsDevice.GetBackBufferData<Color>(buff);
+            //GraphicsSettingsUtils.GraphicsDevice.GetBackBufferData<Color>(buff);
             Texture2D screenShot = new Texture2D(GraphicsSettingsUtils.GraphicsDevice, width, height);
             screenShot.SetData<Color>(buff);
             var now = DateTime.Now;
